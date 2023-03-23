@@ -1,0 +1,1738 @@
+,Timestamp,Value,UnitsAbbreviation,Good,Questionable,Substituted,Annotated
+0,2021-11-06 00:51:48.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1,2021-11-06 08:43:48.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+2,2021-11-06 16:35:53.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+3,2021-11-07 00:27:43.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+4,2021-11-07 08:22:30.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+5,2021-11-07 16:14:10.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+6,2021-11-08 00:05:50.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+7,2021-11-08 07:57:45.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+8,2021-11-08 15:49:30.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+9,2021-11-08 23:44:58.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+10,2021-11-09 07:36:58.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+11,2021-11-09 15:28:58.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+12,2021-11-09 23:21:36.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+13,2021-11-10 07:13:21.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+14,2021-11-10 15:05:06.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+15,2021-11-10 22:56:51.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+16,2021-11-11 06:48:31.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+17,2021-11-11 14:40:11.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+18,2021-11-11 22:32:06.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+19,2021-11-12 06:23:46.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+20,2021-11-12 14:15:36.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+21,2021-11-12 22:07:11.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+22,2021-11-13 05:58:51.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+23,2021-11-13 13:50:31.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+24,2021-11-13 21:42:11.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+25,2021-11-14 05:33:51.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+26,2021-11-14 13:25:41.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+27,2021-11-14 21:17:26.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+28,2021-11-15 05:08:56.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+29,2021-11-15 13:00:51.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+30,2021-11-15 20:52:41.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+31,2021-11-16 04:44:06.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+32,2021-11-16 12:35:41.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+33,2021-11-16 20:27:21.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+34,2021-11-17 04:19:11.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+35,2021-11-17 12:10:56.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+36,2021-11-17 20:02:46.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+37,2021-11-18 03:54:26.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+38,2021-11-18 11:46:11.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+39,2021-11-18 19:37:56.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+40,2021-11-19 03:29:26.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+41,2021-11-19 11:21:21.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+42,2021-11-19 19:13:26.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+43,2021-11-20 03:05:01.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+44,2021-11-20 10:56:51.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+45,2021-11-20 18:48:16.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+46,2021-11-21 02:40:26.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+47,2021-11-21 10:32:16.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+48,2021-11-21 18:24:21.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+49,2021-11-22 02:16:06.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+50,2021-11-22 10:07:41.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+51,2021-11-22 17:59:21.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+52,2021-11-23 01:50:51.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+53,2021-11-23 09:42:21.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+54,2021-11-23 17:34:11.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+55,2021-11-24 01:26:21.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+56,2021-11-24 09:17:56.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+57,2021-11-24 17:09:31.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+58,2021-11-25 01:01:16.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+59,2021-11-25 08:53:16.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+60,2021-11-25 16:44:56.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+61,2021-11-26 00:36:51.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+62,2021-11-26 08:28:26.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+63,2021-11-26 16:20:26.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+64,2021-11-27 00:12:11.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+65,2021-11-27 08:04:01.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+66,2021-11-27 15:56:06.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+67,2021-11-27 23:47:46.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+68,2021-11-28 07:39:21.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+69,2021-11-28 15:31:21.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+70,2021-11-28 23:23:06.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+71,2021-11-29 07:14:56.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+72,2021-11-29 15:06:36.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+73,2021-11-29 23:05:17.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+74,2021-11-30 06:56:47.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+75,2021-11-30 14:55:26.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+76,2021-11-30 22:53:32.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+77,2021-12-01 06:45:17.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+78,2021-12-01 14:37:17.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+79,2021-12-01 22:29:22.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+80,2021-12-02 06:21:12.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+81,2021-12-02 14:12:52.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+82,2021-12-02 22:04:22.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+83,2021-12-03 05:56:17.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+84,2021-12-03 13:48:12.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+85,2021-12-03 21:40:02.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+86,2021-12-04 05:31:42.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+87,2021-12-04 13:23:02.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+88,2021-12-04 21:14:32.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+89,2021-12-05 05:06:12.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+90,2021-12-05 12:58:07.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+91,2021-12-05 20:49:52.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+92,2021-12-06 04:41:52.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+93,2021-12-06 12:33:32.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+94,2021-12-06 20:25:22.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+95,2021-12-07 04:16:52.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+96,2021-12-07 12:08:37.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+97,2021-12-07 20:00:27.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+98,2021-12-08 03:54:43.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+99,2021-12-08 11:46:13.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+100,2021-12-08 19:37:33.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+101,2021-12-09 03:28:53.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+102,2021-12-09 11:20:23.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+103,2021-12-09 19:11:58.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+104,2021-12-10 03:03:33.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+105,2021-12-10 10:55:23.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+106,2021-12-10 18:46:53.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+107,2021-12-11 02:38:28.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+108,2021-12-11 10:29:38.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+109,2021-12-11 18:21:03.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+110,2021-12-12 02:12:33.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+111,2021-12-12 10:04:28.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+112,2021-12-12 17:55:58.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+113,2021-12-13 01:47:53.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+114,2021-12-13 09:39:03.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+115,2021-12-13 17:30:33.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+116,2021-12-14 01:22:03.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+117,2021-12-14 09:13:33.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+118,2021-12-14 17:04:58.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+119,2021-12-15 00:56:38.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+120,2021-12-15 08:48:13.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+121,2021-12-15 16:39:53.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+122,2021-12-16 00:31:18.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+123,2021-12-16 08:22:58.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+124,2021-12-16 16:14:33.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+125,2021-12-17 00:06:08.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+126,2021-12-17 07:57:38.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+127,2021-12-17 15:49:18.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+128,2021-12-17 23:46:03.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+129,2021-12-18 07:38:03.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+130,2021-12-18 15:29:48.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+131,2021-12-18 23:21:33.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+132,2021-12-19 07:13:38.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+133,2021-12-19 15:05:28.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+134,2021-12-19 22:57:13.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+135,2021-12-20 06:48:58.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+136,2021-12-20 14:40:53.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+137,2021-12-20 22:32:18.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+138,2021-12-21 06:24:03.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+139,2021-12-21 14:15:28.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+140,2021-12-21 22:06:46.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+141,2021-12-22 05:58:46.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+142,2021-12-22 13:50:41.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+143,2021-12-22 21:42:41.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+144,2021-12-23 05:34:26.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+145,2021-12-23 13:26:26.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+146,2021-12-23 21:18:16.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+147,2021-12-24 05:10:11.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+148,2021-12-24 13:02:06.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+149,2021-12-24 20:54:01.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+150,2021-12-25 04:45:51.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+151,2021-12-25 12:37:51.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+152,2021-12-25 20:29:46.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+153,2021-12-26 04:21:36.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+154,2021-12-26 12:13:36.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+155,2021-12-26 20:05:51.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+156,2021-12-27 03:57:46.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+157,2021-12-27 11:49:26.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+158,2021-12-27 19:41:21.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+159,2021-12-28 03:33:26.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+160,2021-12-28 11:25:51.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+161,2021-12-28 19:17:31.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+162,2021-12-29 03:09:26.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+163,2021-12-29 11:01:36.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+164,2021-12-29 18:53:36.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+165,2021-12-30 02:45:31.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+166,2021-12-30 10:37:36.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+167,2021-12-30 18:29:31.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+168,2021-12-31 02:21:31.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+169,2021-12-31 10:13:21.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+170,2021-12-31 18:05:11.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+171,2022-01-01 01:57:16.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+172,2022-01-01 09:49:11.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+173,2022-01-01 17:41:16.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+174,2022-01-02 01:33:41.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+175,2022-01-02 09:25:41.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+176,2022-01-02 17:17:46.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+177,2022-01-03 01:09:36.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+178,2022-01-03 09:01:16.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+179,2022-01-03 16:53:21.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+180,2022-01-04 00:45:16.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+181,2022-01-04 08:37:11.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+182,2022-01-04 16:29:01.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+183,2022-01-05 00:20:51.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+184,2022-01-05 08:12:46.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+185,2022-01-05 16:04:31.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+186,2022-01-05 23:56:26.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+187,2022-01-06 07:48:16.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+188,2022-01-06 15:40:16.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+189,2022-01-06 23:32:01.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+190,2022-01-07 07:24:06.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+191,2022-01-07 15:16:01.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+192,2022-01-07 23:10:28.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+193,2022-01-08 07:02:23.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+194,2022-01-08 14:54:23.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+195,2022-01-08 22:46:13.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+196,2022-01-09 06:38:03.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+197,2022-01-09 14:29:53.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+198,2022-01-09 22:21:23.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+199,2022-01-10 06:12:53.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+200,2022-01-10 14:04:38.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+201,2022-01-10 21:56:23.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+202,2022-01-11 05:48:03.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+203,2022-01-11 13:39:33.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+204,2022-01-11 21:31:18.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+205,2022-01-12 05:23:13.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+206,2022-01-12 13:14:58.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+207,2022-01-12 21:06:48.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+208,2022-01-13 04:58:03.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+209,2022-01-13 12:49:53.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+210,2022-01-13 20:41:43.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+211,2022-01-14 04:33:33.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+212,2022-01-14 12:25:08.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+213,2022-01-14 20:16:58.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+214,2022-01-15 04:08:48.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+215,2022-01-15 12:00:33.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+216,2022-01-15 19:52:28.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+217,2022-01-16 03:47:45.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+218,2022-01-16 11:39:45.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+219,2022-01-16 19:31:45.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+220,2022-01-17 03:23:35.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+221,2022-01-17 11:15:45.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+222,2022-01-17 19:07:20.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+223,2022-01-18 02:59:15.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+224,2022-01-18 10:51:20.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+225,2022-01-18 18:43:30.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+226,2022-01-19 02:35:40.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+227,2022-01-19 10:27:35.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+228,2022-01-19 18:19:30.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+229,2022-01-20 02:11:15.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+230,2022-01-20 10:03:30.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+231,2022-01-20 17:55:10.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+232,2022-01-21 01:46:55.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+233,2022-01-21 09:38:40.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+234,2022-01-21 17:30:40.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+235,2022-01-22 01:22:40.027008+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+236,2022-01-22 09:14:20.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+237,2022-01-22 17:06:05.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+238,2022-01-23 00:57:45.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+239,2022-01-23 08:49:30.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+240,2022-01-23 16:41:15.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+241,2022-01-24 00:33:25.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+242,2022-01-24 08:25:15.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+243,2022-01-24 16:17:05.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+244,2022-01-25 00:09:00.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+245,2022-01-25 08:01:05.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+246,2022-01-25 15:53:20.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+247,2022-01-25 23:45:15.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+248,2022-01-26 07:37:00.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+249,2022-01-26 15:29:10.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+250,2022-01-26 23:21:40.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+251,2022-01-27 07:13:40.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+252,2022-01-27 15:05:30.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+253,2022-01-27 22:57:15.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+254,2022-01-28 06:49:40.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+255,2022-01-28 14:41:45.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+256,2022-01-28 22:33:50.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+257,2022-01-29 06:26:15.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+258,2022-01-29 14:18:15.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+259,2022-01-29 22:10:16.352005+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+260,2022-01-30 06:02:40.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+261,2022-01-30 13:54:50.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+262,2022-01-30 21:46:45.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+263,2022-01-31 05:38:30.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+264,2022-01-31 13:30:35.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+265,2022-01-31 21:22:40.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+266,2022-02-01 05:14:35.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+267,2022-02-01 13:07:06.970001200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+268,2022-02-01 20:59:35.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+269,2022-02-02 04:51:40.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+270,2022-02-02 12:43:20.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+271,2022-02-02 20:35:35.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+272,2022-02-02 23:56:20.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+273,2022-02-04 19:56:55.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+274,2022-02-05 03:48:55.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+275,2022-02-05 11:40:50.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+276,2022-02-05 19:32:45.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+277,2022-02-06 03:24:35.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+278,2022-02-06 11:16:20.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+279,2022-02-06 19:08:05.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+280,2022-02-07 02:59:40.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+281,2022-02-07 10:51:20.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+282,2022-02-07 18:43:00.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+283,2022-02-08 02:34:45.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+284,2022-02-08 10:26:40.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+285,2022-02-08 18:08:35.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+286,2022-02-09 02:00:35.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+287,2022-02-09 09:42:30.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+288,2022-02-09 17:34:30.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+289,2022-02-10 01:26:25.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+290,2022-02-10 09:18:45.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+291,2022-02-10 17:10:55.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+292,2022-02-11 01:02:50.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+293,2022-02-11 08:54:45.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+294,2022-02-11 16:49:02.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+295,2022-02-12 00:40:47.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+296,2022-02-12 08:32:42.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+297,2022-02-12 16:24:32.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+298,2022-02-13 00:16:22.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+299,2022-02-13 08:08:07.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+300,2022-02-13 15:59:37.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+301,2022-02-13 23:51:12.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+302,2022-02-14 07:42:47.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+303,2022-02-14 15:34:27.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+304,2022-02-14 23:26:02.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+305,2022-02-15 07:07:32.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+306,2022-02-15 14:59:37.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+307,2022-02-15 22:51:27.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+308,2022-02-16 06:43:17.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+309,2022-02-16 14:35:12.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+310,2022-02-16 22:26:37.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+311,2022-02-17 06:18:17.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+312,2022-02-17 14:10:02.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+313,2022-02-17 22:02:07.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+314,2022-02-18 05:53:52.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+315,2022-02-18 13:45:47.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+316,2022-02-18 21:37:17.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+317,2022-02-19 05:28:32.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+318,2022-02-19 13:20:27.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+319,2022-02-19 21:12:12.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+320,2022-02-20 05:04:02.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+321,2022-02-20 12:55:52.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+322,2022-02-20 20:47:27.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+323,2022-02-21 04:39:17.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+324,2022-02-21 12:30:42.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+325,2022-02-21 20:22:37.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+326,2022-02-22 04:14:32.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+327,2022-02-22 12:06:42.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+328,2022-02-22 19:58:02.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+329,2022-02-23 03:49:47.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+330,2022-02-23 11:41:32.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+331,2022-02-23 19:33:17.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+332,2022-02-24 03:25:12.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+333,2022-02-24 11:17:02.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+334,2022-02-24 19:08:57.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+335,2022-02-25 03:00:42.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+336,2022-02-25 10:52:37.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+337,2022-02-25 18:44:17.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+338,2022-02-26 02:36:02.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+339,2022-02-26 10:27:52.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+340,2022-02-26 18:20:02.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+341,2022-02-27 02:11:42.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+342,2022-02-27 10:03:17.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+343,2022-02-27 17:55:12.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+344,2022-02-28 01:46:47.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+345,2022-02-28 09:38:22.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+346,2022-02-28 17:30:27.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+347,2022-03-01 01:22:17.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+348,2022-03-01 09:13:47.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+349,2022-03-01 17:05:47.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+350,2022-03-02 01:02:39.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+351,2022-03-02 08:54:14.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+352,2022-03-02 16:45:59.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+353,2022-03-03 00:37:49.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+354,2022-03-03 08:29:34.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+355,2022-03-03 16:21:19.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+356,2022-03-04 00:12:44.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+357,2022-03-04 08:04:39.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+358,2022-03-04 15:56:34.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+359,2022-03-04 23:48:49.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+360,2022-03-05 07:41:13.139007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+361,2022-03-05 15:33:34.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+362,2022-03-05 23:26:04.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+363,2022-03-06 07:18:32.339004500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+364,2022-03-06 15:11:19.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+365,2022-03-06 23:03:14.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+366,2022-03-07 06:55:29.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+367,2022-03-07 14:47:19.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+368,2022-03-07 22:39:29.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+369,2022-03-08 06:31:19.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+370,2022-03-08 14:23:04.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+371,2022-03-08 22:14:49.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+372,2022-03-09 06:06:29.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+373,2022-03-09 13:58:44.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+374,2022-03-09 21:50:44.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+375,2022-03-10 05:42:44.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+376,2022-03-10 13:35:04.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+377,2022-03-10 21:27:19.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+378,2022-03-11 05:19:24.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+379,2022-03-11 13:11:24.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+380,2022-03-11 21:03:14.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+381,2022-03-12 04:55:24.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+382,2022-03-12 12:47:19.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+383,2022-03-12 20:39:04.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+384,2022-03-13 04:31:24.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+385,2022-03-13 12:23:29.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+386,2022-03-13 20:15:24.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+387,2022-03-14 04:07:29.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+388,2022-03-14 11:59:19.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+389,2022-03-14 19:51:29.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+390,2022-03-15 03:43:34.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+391,2022-03-15 11:35:54.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+392,2022-03-15 19:27:39.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+393,2022-03-16 03:19:49.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+394,2022-03-16 11:11:34.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+395,2022-03-16 19:03:39.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+396,2022-03-17 02:55:44.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+397,2022-03-17 10:48:04.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+398,2022-03-17 18:39:59.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+399,2022-03-18 02:31:54.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+400,2022-03-18 10:23:54.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+401,2022-03-18 18:16:04.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+402,2022-03-19 02:07:49.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+403,2022-03-19 10:00:04.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+404,2022-03-19 17:51:59.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+405,2022-03-20 01:43:59.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+406,2022-03-20 09:35:49.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+407,2022-03-20 17:28:04.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+408,2022-03-21 01:20:04.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+409,2022-03-21 09:12:04.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+410,2022-03-21 17:03:59.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+411,2022-03-22 00:56:09.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+412,2022-03-22 08:47:49.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+413,2022-03-22 16:39:39.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+414,2022-03-23 00:31:29.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+415,2022-03-23 08:23:14.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+416,2022-03-23 16:15:39.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+417,2022-03-24 00:07:24.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+418,2022-03-24 07:59:14.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+419,2022-03-24 15:51:19.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+420,2022-03-24 23:43:14.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+421,2022-03-25 07:35:24.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+422,2022-03-25 15:27:09.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+423,2022-03-25 23:19:04.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+424,2022-03-26 07:11:19.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+425,2022-03-26 15:03:34.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+426,2022-03-26 22:55:29.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+427,2022-03-27 06:47:19.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+428,2022-03-27 14:39:24.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+429,2022-03-27 22:31:24.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+430,2022-03-28 06:23:29.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+431,2022-03-28 14:15:14.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+432,2022-03-28 22:07:24.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+433,2022-03-29 05:59:24.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+434,2022-03-29 13:51:44.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+435,2022-03-29 21:43:24.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+436,2022-03-30 05:35:19.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+437,2022-03-30 13:27:14.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+438,2022-03-30 21:19:09.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+439,2022-03-31 05:11:34.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+440,2022-03-31 13:11:27.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+441,2022-03-31 21:03:07.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+442,2022-04-01 04:54:42.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+443,2022-04-01 12:46:17.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+444,2022-04-01 20:37:47.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+445,2022-04-02 04:29:57.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+446,2022-04-02 12:21:57.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+447,2022-04-02 20:13:52.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+448,2022-04-03 04:05:37.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+449,2022-04-03 11:57:22.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+450,2022-04-03 19:49:27.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+451,2022-04-04 03:41:22.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+452,2022-04-04 11:33:37.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+453,2022-04-04 19:25:42.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+454,2022-04-05 03:17:22.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+455,2022-04-05 11:09:17.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+456,2022-04-05 19:01:27.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+457,2022-04-06 02:53:37.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+458,2022-04-06 10:45:42.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+459,2022-04-06 18:37:32.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+460,2022-04-07 02:29:22.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+461,2022-04-07 10:21:12.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+462,2022-04-07 18:12:57.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+463,2022-04-08 02:04:57.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+464,2022-04-08 09:57:02.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+465,2022-04-08 17:49:02.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+466,2022-04-09 01:40:57.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+467,2022-04-09 09:32:47.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+468,2022-04-09 17:24:32.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+469,2022-04-10 01:16:32.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+470,2022-04-10 09:08:07.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+471,2022-04-10 16:59:52.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+472,2022-04-11 00:51:27.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+473,2022-04-11 08:43:27.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+474,2022-04-11 16:35:27.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+475,2022-04-12 00:27:12.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+476,2022-04-12 08:19:27.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+477,2022-04-12 16:11:12.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+478,2022-04-13 00:03:07.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+479,2022-04-13 07:55:07.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+480,2022-04-13 15:46:52.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+481,2022-04-13 23:38:37.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+482,2022-04-14 07:30:27.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+483,2022-04-14 15:22:07.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+484,2022-04-14 23:13:52.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+485,2022-04-15 07:05:57.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+486,2022-04-15 14:57:57.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+487,2022-04-15 22:49:42.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+488,2022-04-16 06:41:32.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+489,2022-04-16 14:33:07.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+490,2022-04-16 22:24:57.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+491,2022-04-17 06:17:02.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+492,2022-04-17 14:08:22.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+493,2022-04-17 22:00:07.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+494,2022-04-18 05:52:02.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+495,2022-04-18 13:44:12.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+496,2022-04-18 21:36:02.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+497,2022-04-19 05:27:52.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+498,2022-04-19 13:19:37.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+499,2022-04-19 21:11:22.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+500,2022-04-20 05:03:07.023010200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+501,2022-04-20 12:55:12.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+502,2022-04-20 20:45:25.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+503,2022-04-21 04:37:15.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+504,2022-04-21 12:29:00.021011300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+505,2022-04-21 20:20:50.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+506,2022-04-22 04:12:25.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+507,2022-04-22 12:04:05.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+508,2022-04-22 19:56:00.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+509,2022-04-23 03:47:50.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+510,2022-04-23 11:39:25.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+511,2022-04-23 19:31:00.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+512,2022-04-24 03:22:20.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+513,2022-04-24 11:14:25.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+514,2022-04-24 19:06:00.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+515,2022-04-25 02:57:40.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+516,2022-04-25 10:49:15.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+517,2022-04-25 18:41:10.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+518,2022-04-26 02:32:55.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+519,2022-04-26 10:25:00.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+520,2022-04-26 18:17:00.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+521,2022-04-27 02:09:05.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+522,2022-04-27 10:01:05.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+523,2022-04-27 17:53:10.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+524,2022-04-28 01:45:05.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+525,2022-04-28 09:36:55.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+526,2022-04-28 17:28:15.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+527,2022-04-29 01:19:55.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+528,2022-04-29 09:11:40.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+529,2022-04-29 17:03:30.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+530,2022-04-30 00:55:05.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+531,2022-04-30 08:46:40.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+532,2022-04-30 16:38:15.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+533,2022-05-01 00:30:15.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+534,2022-05-01 08:21:50.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+535,2022-05-01 16:13:10.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+536,2022-05-02 00:05:00.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+537,2022-05-02 07:56:55.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+538,2022-05-02 15:48:30.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+539,2022-05-02 23:40:10.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+540,2022-05-03 07:31:55.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+541,2022-05-03 15:23:50.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+542,2022-05-03 23:15:15.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+543,2022-05-04 07:07:10.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+544,2022-05-04 14:58:55.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+545,2022-05-04 22:50:35.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+546,2022-05-05 06:42:15.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+547,2022-05-05 14:34:00.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+548,2022-05-05 22:25:50.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+549,2022-05-06 06:17:30.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+550,2022-05-06 14:09:10.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+551,2022-05-06 22:00:35.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+552,2022-05-07 05:52:40.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+553,2022-05-07 13:44:10.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+554,2022-05-07 21:35:45.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+555,2022-05-08 05:27:35.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+556,2022-05-08 13:19:20.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+557,2022-05-08 21:10:55.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+558,2022-05-09 05:02:30.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+559,2022-05-09 12:54:20.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+560,2022-05-09 20:46:15.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+561,2022-05-10 04:37:55.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+562,2022-05-10 12:29:25.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+563,2022-05-10 20:20:45.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+564,2022-05-11 04:12:20.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+565,2022-05-11 12:03:55.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+566,2022-05-11 19:55:40.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+567,2022-05-12 03:47:25.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+568,2022-05-12 11:39:40.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+569,2022-05-12 19:31:15.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+570,2022-05-13 03:22:40.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+571,2022-05-13 11:14:35.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+572,2022-05-13 19:06:10.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+573,2022-05-14 02:57:50.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+574,2022-05-14 10:49:25.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+575,2022-05-14 18:40:55.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+576,2022-05-15 02:32:25.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+577,2022-05-15 10:29:00.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+578,2022-05-15 18:20:25.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+579,2022-05-16 02:12:20.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+580,2022-05-16 10:03:45.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+581,2022-05-16 17:55:32.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+582,2022-05-17 01:47:27.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+583,2022-05-17 09:39:07.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+584,2022-05-17 17:31:12.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+585,2022-05-18 01:23:07.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+586,2022-05-18 09:14:47.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+587,2022-05-18 17:06:12.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+588,2022-05-19 00:58:17.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+589,2022-05-19 08:49:52.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+590,2022-05-19 16:41:42.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+591,2022-05-20 00:33:37.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+592,2022-05-20 08:25:37.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+593,2022-05-20 16:17:22.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+594,2022-05-21 00:09:12.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+595,2022-05-21 08:01:07.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+596,2022-05-21 15:52:47.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+597,2022-05-21 23:44:42.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+598,2022-05-22 07:36:37.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+599,2022-05-22 15:28:37.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+600,2022-05-22 23:20:12.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+601,2022-05-23 07:12:07.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+602,2022-05-23 15:03:47.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+603,2022-05-23 22:55:32.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+604,2022-05-24 06:47:22.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+605,2022-05-24 14:39:17.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+606,2022-05-24 22:31:37.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+607,2022-05-25 06:23:37.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+608,2022-05-25 14:15:37.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+609,2022-05-25 22:07:32.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+610,2022-05-26 05:59:37.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+611,2022-05-26 13:51:42.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+612,2022-05-26 21:43:37.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+613,2022-05-27 05:35:32.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+614,2022-05-27 13:27:12.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+615,2022-05-27 21:19:02.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+616,2022-05-28 05:10:57.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+617,2022-05-28 13:02:52.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+618,2022-05-28 20:54:27.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+619,2022-05-29 04:46:17.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+620,2022-05-29 12:38:27.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+621,2022-05-29 20:30:12.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+622,2022-05-30 04:22:02.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+623,2022-05-30 12:13:42.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+624,2022-05-30 20:05:32.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+625,2022-05-31 03:57:22.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+626,2022-05-31 11:49:17.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+627,2022-05-31 19:41:12.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+628,2022-06-01 03:33:17.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+629,2022-06-01 11:24:52.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+630,2022-06-01 19:16:47.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+631,2022-06-02 03:08:52.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+632,2022-06-02 11:00:27.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+633,2022-06-02 18:52:42.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+634,2022-06-03 02:44:22.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+635,2022-06-03 10:36:17.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+636,2022-06-03 18:27:52.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+637,2022-06-04 02:19:52.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+638,2022-06-04 10:11:52.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+639,2022-06-04 18:03:32.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+640,2022-06-05 01:55:12.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+641,2022-06-05 09:47:07.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+642,2022-06-05 17:38:42.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+643,2022-06-06 01:30:47.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+644,2022-06-06 09:22:47.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+645,2022-06-06 17:14:42.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+646,2022-06-07 01:06:42.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+647,2022-06-07 08:58:57.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+648,2022-06-07 16:50:42.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+649,2022-06-08 00:42:52.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+650,2022-06-08 08:34:22.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+651,2022-06-08 16:27:52.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+652,2022-06-09 00:19:47.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+653,2022-06-09 08:11:42.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+654,2022-06-09 16:03:22.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+655,2022-06-09 23:55:07.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+656,2022-06-10 07:46:57.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+657,2022-06-10 15:38:52.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+658,2022-06-10 23:30:32.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+659,2022-06-11 07:22:12.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+660,2022-06-11 15:14:07.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+661,2022-06-11 23:05:42.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+662,2022-06-12 06:57:37.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+663,2022-06-12 14:49:27.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+664,2022-06-12 22:41:02.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+665,2022-06-13 06:33:02.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+666,2022-06-13 14:24:42.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+667,2022-06-13 22:16:32.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+668,2022-06-14 06:08:42.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+669,2022-06-14 14:00:22.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+670,2022-06-14 21:52:07.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+671,2022-06-15 05:43:52.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+672,2022-06-15 13:35:27.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+673,2022-06-15 21:27:37.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+674,2022-06-16 05:27:22.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+675,2022-06-16 13:19:07.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+676,2022-06-16 21:11:12.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+677,2022-06-17 05:03:07.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+678,2022-06-17 12:54:57.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+679,2022-06-17 20:46:52.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+680,2022-06-18 04:38:57.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+681,2022-06-18 12:30:42.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+682,2022-06-18 20:22:42.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+683,2022-06-19 04:14:32.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+684,2022-06-19 12:06:17.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+685,2022-06-19 19:58:02.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+686,2022-06-20 03:49:57.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+687,2022-06-20 11:41:57.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+688,2022-06-20 19:34:02.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+689,2022-06-21 03:25:42.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+690,2022-06-21 11:17:42.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+691,2022-06-21 19:09:42.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+692,2022-06-22 03:01:37.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+693,2022-06-22 10:53:12.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+694,2022-06-22 18:44:57.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+695,2022-06-23 02:36:47.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+696,2022-06-23 10:28:42.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+697,2022-06-23 18:20:22.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+698,2022-06-24 02:12:42.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+699,2022-06-24 10:05:02.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+700,2022-06-24 17:57:07.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+701,2022-06-25 01:48:57.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+702,2022-06-25 09:40:47.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+703,2022-06-25 17:32:27.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+704,2022-06-26 01:24:32.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+705,2022-06-26 09:16:22.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+706,2022-06-26 17:08:17.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+707,2022-06-27 01:00:17.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+708,2022-06-27 08:52:12.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+709,2022-06-27 16:44:12.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+710,2022-06-28 00:35:52.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+711,2022-06-28 08:27:37.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+712,2022-06-28 16:19:22.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+713,2022-06-29 00:11:02.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+714,2022-06-29 08:02:57.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+715,2022-06-29 15:54:27.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+716,2022-06-29 23:46:22.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+717,2022-06-30 07:38:22.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+718,2022-06-30 15:30:32.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+719,2022-06-30 23:22:22.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+720,2022-07-01 07:14:22.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+721,2022-07-01 15:06:07.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+722,2022-07-01 22:57:52.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+723,2022-07-02 06:49:47.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+724,2022-07-02 14:41:37.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+725,2022-07-02 22:33:22.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+726,2022-07-03 06:30:18.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+727,2022-07-03 14:21:43.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+728,2022-07-03 22:13:28.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+729,2022-07-04 06:05:23.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+730,2022-07-04 13:57:23.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+731,2022-07-04 21:49:08.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+732,2022-07-05 05:41:08.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+733,2022-07-05 13:32:53.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+734,2022-07-05 21:24:28.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+735,2022-07-06 05:16:13.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+736,2022-07-06 13:08:03.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+737,2022-07-06 21:00:03.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+738,2022-07-07 04:52:03.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+739,2022-07-07 12:43:48.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+740,2022-07-07 20:35:33.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+741,2022-07-08 04:27:23.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+742,2022-07-08 12:19:13.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+743,2022-07-08 20:11:03.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+744,2022-07-09 04:02:48.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+745,2022-07-09 11:54:58.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+746,2022-07-09 19:46:53.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+747,2022-07-10 03:38:38.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+748,2022-07-10 11:30:23.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+749,2022-07-10 19:22:33.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+750,2022-07-11 03:14:28.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+751,2022-07-11 11:06:33.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+752,2022-07-11 18:58:28.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+753,2022-07-12 02:50:28.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+754,2022-07-12 10:42:33.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+755,2022-07-12 18:34:33.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+756,2022-07-13 02:26:38.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+757,2022-07-13 10:18:38.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+758,2022-07-13 18:10:33.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+759,2022-07-14 02:02:23.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+760,2022-07-14 09:53:53.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+761,2022-07-14 17:45:18.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+762,2022-07-15 01:37:28.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+763,2022-07-15 09:29:23.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+764,2022-07-15 17:21:08.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+765,2022-07-16 01:12:53.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+766,2022-07-16 09:04:48.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+767,2022-07-16 16:56:43.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+768,2022-07-17 00:48:43.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+769,2022-07-17 08:40:43.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+770,2022-07-17 16:32:43.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+771,2022-07-18 00:24:48.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+772,2022-07-18 08:16:33.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+773,2022-07-18 16:08:28.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+774,2022-07-19 00:00:28.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+775,2022-07-19 07:52:28.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+776,2022-07-19 15:44:43.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+777,2022-07-19 23:36:48.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+778,2022-07-20 07:28:28.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+779,2022-07-20 15:20:23.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+780,2022-07-20 23:11:53.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+781,2022-07-21 07:03:33.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+782,2022-07-21 14:55:33.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+783,2022-07-21 22:47:18.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+784,2022-07-22 06:39:13.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+785,2022-07-22 14:31:03.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+786,2022-07-22 22:22:53.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+787,2022-07-23 06:14:43.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+788,2022-07-23 14:06:23.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+789,2022-07-23 21:58:08.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+790,2022-07-24 05:49:48.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+791,2022-07-24 13:41:38.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+792,2022-07-24 21:33:43.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+793,2022-07-25 05:25:23.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+794,2022-07-25 13:17:18.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+795,2022-07-25 21:08:58.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+796,2022-07-26 05:00:53.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+797,2022-07-26 12:52:33.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+798,2022-07-26 20:44:23.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+799,2022-07-27 04:36:08.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+800,2022-07-27 12:28:03.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+801,2022-07-27 20:19:58.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+802,2022-07-28 04:11:38.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+803,2022-07-28 12:03:23.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+804,2022-07-28 19:55:13.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+805,2022-07-29 03:46:58.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+806,2022-07-29 11:38:23.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+807,2022-07-29 19:30:18.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+808,2022-07-30 03:22:13.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+809,2022-07-30 11:13:33.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+810,2022-07-30 19:05:23.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+811,2022-07-31 02:57:38.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+812,2022-07-31 10:49:28.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+813,2022-07-31 18:41:28.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+814,2022-08-01 02:33:33.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+815,2022-08-01 10:25:23.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+816,2022-08-01 18:17:13.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+817,2022-08-02 02:09:08.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+818,2022-08-02 10:01:03.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+819,2022-08-02 17:52:58.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+820,2022-08-03 01:44:38.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+821,2022-08-03 09:36:28.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+822,2022-08-03 17:28:18.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+823,2022-08-04 01:20:23.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+824,2022-08-04 09:12:03.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+825,2022-08-04 17:03:48.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+826,2022-08-05 00:55:23.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+827,2022-08-05 08:46:58.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+828,2022-08-05 16:38:38.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+829,2022-08-06 00:30:13.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+830,2022-08-06 08:22:13.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+831,2022-08-06 16:14:13.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+832,2022-08-07 00:06:18.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+833,2022-08-07 07:58:03.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+834,2022-08-07 15:49:33.004013+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+835,2022-08-07 23:41:58.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+836,2022-08-08 07:34:23.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+837,2022-08-08 15:26:23.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+838,2022-08-08 23:18:13.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+839,2022-08-09 07:10:13.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+840,2022-08-09 15:02:03.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+841,2022-08-09 22:53:58.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+842,2022-08-10 06:46:03.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+843,2022-08-10 14:37:53.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+844,2022-08-10 22:29:48.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+845,2022-08-11 06:21:48.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+846,2022-08-11 14:13:43.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+847,2022-08-11 22:05:03.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+848,2022-08-12 05:56:23.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+849,2022-08-12 13:47:58.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+850,2022-08-12 21:39:48.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+851,2022-08-13 05:31:33.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+852,2022-08-13 13:23:28.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+853,2022-08-13 21:14:53.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+854,2022-08-14 05:06:28.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+855,2022-08-14 12:57:53.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+856,2022-08-14 20:49:48.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+857,2022-08-15 04:44:02.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+858,2022-08-15 12:35:47.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+859,2022-08-15 20:27:52.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+860,2022-08-16 04:19:27.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+861,2022-08-16 12:11:17.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+862,2022-08-16 20:03:22.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+863,2022-08-17 03:55:07.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+864,2022-08-17 11:46:37.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+865,2022-08-17 19:44:08.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+866,2022-08-18 03:36:08.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+867,2022-08-18 11:28:03.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+868,2022-08-18 19:20:03.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+869,2022-08-19 03:12:03.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+870,2022-08-19 11:03:53.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+871,2022-08-19 18:55:38.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+872,2022-08-20 02:47:23.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+873,2022-08-20 10:39:18.006011900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+874,2022-08-20 18:31:23.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+875,2022-08-21 02:23:08.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+876,2022-08-21 10:14:38.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+877,2022-08-21 18:06:13.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+878,2022-08-22 01:57:48.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+879,2022-08-22 09:49:13.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+880,2022-08-22 17:40:58.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+881,2022-08-23 01:33:03.005004800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+882,2022-08-23 09:25:03.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+883,2022-08-23 17:17:03.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+884,2022-08-24 01:08:53.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+885,2022-08-24 09:00:43.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+886,2022-08-24 16:52:33.018005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+887,2022-08-25 00:44:18.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+888,2022-08-25 08:36:13.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+889,2022-08-25 16:27:48.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+890,2022-08-26 00:19:23.020004200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+891,2022-08-26 08:11:03.017013500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+892,2022-08-26 16:02:53.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+893,2022-08-26 23:55:03.008010800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+894,2022-08-27 07:46:53.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+895,2022-08-27 15:38:53.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+896,2022-08-27 23:30:58.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+897,2022-08-28 07:22:48.009002600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+898,2022-08-28 15:14:53.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+899,2022-08-28 23:06:58.007003700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+900,2022-08-29 06:58:48.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+901,2022-08-29 14:48:57.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+902,2022-08-29 22:40:47.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+903,2022-08-30 06:32:37.019012400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+904,2022-08-30 14:24:42.021011300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+905,2022-08-30 18:16:12.089004500+00:00,110401944.0,Kgal,True,False,False,False
+906,2022-08-30 18:19:32.087005600+00:00,110401944.0,Kgal,True,False,False,False
+907,2022-08-30 18:19:37.087005600+00:00,110408496.0,Kgal,True,False,False,False
+908,2022-08-30 18:23:12.069000200+00:00,110408496.0,Kgal,True,False,False,False
+909,2022-08-30 18:23:17.078002900+00:00,110415056.0,Kgal,True,False,False,False
+910,2022-08-30 18:26:47.070007300+00:00,110415056.0,Kgal,True,False,False,False
+911,2022-08-30 18:26:52.070007300+00:00,110421608.0,Kgal,True,False,False,False
+912,2022-08-30 18:30:07.087005600+00:00,110421608.0,Kgal,True,False,False,False
+913,2022-08-30 18:30:12.088012600+00:00,110428160.0,Kgal,True,False,False,False
+914,2022-08-30 18:31:07.089004500+00:00,110428160.0,Kgal,True,False,False,False
+915,2022-08-30 18:31:12.089004500+00:00,8238.599609375,Kgal,True,False,False,False
+916,2022-08-30 19:31:32.080001800+00:00,8239.599609375,Kgal,True,False,False,False
+917,2022-08-31 00:08:17.083007800+00:00,8239.7998046875,Kgal,True,False,False,False
+918,2022-08-31 03:29:57.084014800+00:00,8245.2001953125,Kgal,True,False,False,False
+919,2022-08-31 04:53:57.072006200+00:00,8248.5,Kgal,True,False,False,False
+920,2022-08-31 05:37:07.082000700+00:00,8249.099609375,Kgal,True,False,False,False
+921,2022-08-31 06:36:37.080001800+00:00,8250.599609375,Kgal,True,False,False,False
+922,2022-08-31 08:18:52.069000200+00:00,8251.7001953125,Kgal,True,False,False,False
+923,2022-08-31 09:35:07.082000700+00:00,8252.400390625,Kgal,True,False,False,False
+924,2022-08-31 17:29:32.089004500+00:00,8252.400390625,Kgal,True,False,False,False
+925,2022-08-31 21:07:16.039001400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+926,2022-08-31 21:07:47.077011100+00:00,8252.400390625,Kgal,True,False,False,False
+927,2022-09-01 00:07:37.081008900+00:00,8252.599609375,Kgal,True,False,False,False
+928,2022-09-01 03:30:12.077011100+00:00,8258.099609375,Kgal,True,False,False,False
+929,2022-09-01 04:41:27.076004+00:00,8260.900390625,Kgal,True,False,False,False
+930,2022-09-01 04:41:36.041000300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+931,2022-09-01 04:41:37.091003400+00:00,8260.900390625,Kgal,True,False,False,False
+932,2022-09-01 05:01:47.080001800+00:00,8261.5,Kgal,True,False,False,False
+933,2022-09-01 05:44:17.082000700+00:00,8262.2001953125,Kgal,True,False,False,False
+934,2022-09-01 06:42:12.081008900+00:00,8263.599609375,Kgal,True,False,False,False
+935,2022-09-01 08:17:42.084014800+00:00,8264.599609375,Kgal,True,False,False,False
+936,2022-09-01 09:32:42.089004500+00:00,8265.2998046875,Kgal,True,False,False,False
+937,2022-09-01 17:26:57.078002900+00:00,8265.2998046875,Kgal,True,False,False,False
+938,2022-09-02 00:07:22.077011100+00:00,8265.5,Kgal,True,False,False,False
+939,2022-09-02 03:30:52.069000200+00:00,8270.7998046875,Kgal,True,False,False,False
+940,2022-09-02 04:57:32.082000700+00:00,8274.0,Kgal,True,False,False,False
+941,2022-09-02 05:43:32.080001800+00:00,8274.7001953125,Kgal,True,False,False,False
+942,2022-09-02 06:58:02.078002900+00:00,8276.5,Kgal,True,False,False,False
+943,2022-09-02 08:13:32.072006200+00:00,8277.2001953125,Kgal,True,False,False,False
+944,2022-09-02 09:32:17.078002900+00:00,8278.0,Kgal,True,False,False,False
+945,2022-09-02 17:30:47.079010+00:00,8278.0,Kgal,True,False,False,False
+946,2022-09-03 00:08:57.083007800+00:00,8278.2001953125,Kgal,True,False,False,False
+947,2022-09-03 03:29:17.074005100+00:00,8283.400390625,Kgal,True,False,False,False
+948,2022-09-03 04:53:22.075012200+00:00,8286.599609375,Kgal,True,False,False,False
+949,2022-09-03 05:41:27.080001800+00:00,8287.2998046875,Kgal,True,False,False,False
+950,2022-09-03 06:36:07.070007300+00:00,8288.599609375,Kgal,True,False,False,False
+951,2022-09-03 08:14:27.092010400+00:00,8289.599609375,Kgal,True,False,False,False
+952,2022-09-03 09:29:57.079010+00:00,8290.400390625,Kgal,True,False,False,False
+953,2022-09-03 17:26:32.076004+00:00,8290.400390625,Kgal,True,False,False,False
+954,2022-09-04 00:08:17.073013300+00:00,8290.599609375,Kgal,True,False,False,False
+955,2022-09-04 03:28:42.071014400+00:00,8295.900390625,Kgal,True,False,False,False
+956,2022-09-04 04:52:57.070007300+00:00,8299.2001953125,Kgal,True,False,False,False
+957,2022-09-04 05:37:02.071014400+00:00,8299.7998046875,Kgal,True,False,False,False
+958,2022-09-04 06:33:17.102005+00:00,8301.2001953125,Kgal,True,False,False,False
+959,2022-09-04 08:17:47.083007800+00:00,8302.2998046875,Kgal,True,False,False,False
+960,2022-09-04 09:30:22.071014400+00:00,8303.0,Kgal,True,False,False,False
+961,2022-09-04 17:26:47.083007800+00:00,8303.0,Kgal,True,False,False,False
+962,2022-09-05 01:24:12.076004+00:00,8303.0,Kgal,True,False,False,False
+963,2022-09-05 09:20:42.076004+00:00,8303.0,Kgal,True,False,False,False
+964,2022-09-05 17:18:27.072006200+00:00,8303.0,Kgal,True,False,False,False
+965,2022-09-06 01:14:17.073013300+00:00,8303.0,Kgal,True,False,False,False
+966,2022-09-06 09:12:07.072006200+00:00,8303.099609375,Kgal,True,False,False,False
+967,2022-09-06 17:09:47.073013300+00:00,8303.099609375,Kgal,True,False,False,False
+968,2022-09-07 00:10:27.073013300+00:00,8303.2998046875,Kgal,True,False,False,False
+969,2022-09-07 03:30:57.075012200+00:00,8308.5,Kgal,True,False,False,False
+970,2022-09-07 04:57:07.075012200+00:00,8311.7001953125,Kgal,True,False,False,False
+971,2022-09-07 05:43:42.084014800+00:00,8312.400390625,Kgal,True,False,False,False
+972,2022-09-07 06:37:32.073013300+00:00,8313.599609375,Kgal,True,False,False,False
+973,2022-09-07 08:18:47.076004+00:00,8314.7001953125,Kgal,True,False,False,False
+974,2022-09-07 09:38:17.071014400+00:00,8315.400390625,Kgal,True,False,False,False
+975,2022-09-07 17:31:52.080001800+00:00,8315.400390625,Kgal,True,False,False,False
+976,2022-09-08 00:08:32.083007800+00:00,8315.599609375,Kgal,True,False,False,False
+977,2022-09-08 03:30:27.078002900+00:00,8320.7998046875,Kgal,True,False,False,False
+978,2022-09-08 04:52:22.070007300+00:00,8323.900390625,Kgal,True,False,False,False
+979,2022-09-08 05:41:02.075012200+00:00,8324.599609375,Kgal,True,False,False,False
+980,2022-09-08 06:35:27.078002900+00:00,8325.900390625,Kgal,True,False,False,False
+981,2022-09-08 08:13:57.072006200+00:00,8326.900390625,Kgal,True,False,False,False
+982,2022-09-08 09:33:17.073013300+00:00,8327.7001953125,Kgal,True,False,False,False
+983,2022-09-08 17:32:27.082000700+00:00,8327.7001953125,Kgal,True,False,False,False
+984,2022-09-09 00:08:32.078002900+00:00,8327.900390625,Kgal,True,False,False,False
+985,2022-09-09 01:38:42.074005100+00:00,8330.2001953125,Kgal,True,False,False,False
+986,2022-09-09 01:38:51.039001400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+987,2022-09-09 01:38:52.075012200+00:00,8330.2001953125,Kgal,True,False,False,False
+988,2022-09-09 03:30:27.078002900+00:00,8333.2001953125,Kgal,True,False,False,False
+989,2022-09-09 04:52:52.068008400+00:00,8336.400390625,Kgal,True,False,False,False
+990,2022-09-09 05:37:12.085006700+00:00,8337.0,Kgal,True,False,False,False
+991,2022-09-09 06:40:02.085006700+00:00,8338.400390625,Kgal,True,False,False,False
+992,2022-09-09 08:18:52.075012200+00:00,8339.5,Kgal,True,False,False,False
+993,2022-09-09 09:30:47.072006200+00:00,8340.2001953125,Kgal,True,False,False,False
+994,2022-09-09 17:30:42.082000700+00:00,8340.2001953125,Kgal,True,False,False,False
+995,2022-09-10 00:08:07.070007300+00:00,8340.400390625,Kgal,True,False,False,False
+996,2022-09-10 03:31:12.072006200+00:00,8345.7001953125,Kgal,True,False,False,False
+997,2022-09-10 04:56:17.076004+00:00,8348.900390625,Kgal,True,False,False,False
+998,2022-09-10 05:39:47.086013700+00:00,8349.5,Kgal,True,False,False,False
+999,2022-09-10 06:35:42.077011100+00:00,8350.7998046875,Kgal,True,False,False,False
+1000,2022-09-10 08:17:22.069000200+00:00,8351.900390625,Kgal,True,False,False,False
+1001,2022-09-10 09:37:27.084014800+00:00,8352.7001953125,Kgal,True,False,False,False
+1002,2022-09-10 17:29:32.068008400+00:00,8352.7001953125,Kgal,True,False,False,False
+1003,2022-09-11 00:09:57.080001800+00:00,8352.900390625,Kgal,True,False,False,False
+1004,2022-09-11 03:29:02.074005100+00:00,8358.2001953125,Kgal,True,False,False,False
+1005,2022-09-11 04:53:07.077011100+00:00,8361.5,Kgal,True,False,False,False
+1006,2022-09-11 05:37:07.083007800+00:00,8362.099609375,Kgal,True,False,False,False
+1007,2022-09-11 06:33:02.084014800+00:00,8363.5,Kgal,True,False,False,False
+1008,2022-09-11 08:16:17.070007300+00:00,8364.599609375,Kgal,True,False,False,False
+1009,2022-09-11 09:35:02.078002900+00:00,8365.400390625,Kgal,True,False,False,False
+1010,2022-09-11 17:34:22.069000200+00:00,8365.400390625,Kgal,True,False,False,False
+1011,2022-09-12 01:28:57.071014400+00:00,8365.400390625,Kgal,True,False,False,False
+1012,2022-09-12 09:28:22.072006200+00:00,8365.400390625,Kgal,True,False,False,False
+1013,2022-09-12 17:22:37.084014800+00:00,8365.400390625,Kgal,True,False,False,False
+1014,2022-09-13 01:22:17.076004+00:00,8365.400390625,Kgal,True,False,False,False
+1015,2022-09-13 09:17:02.075012200+00:00,8365.400390625,Kgal,True,False,False,False
+1016,2022-09-13 17:16:07.069000200+00:00,8365.400390625,Kgal,True,False,False,False
+1017,2022-09-14 00:09:32.074005100+00:00,8365.599609375,Kgal,True,False,False,False
+1018,2022-09-14 03:30:32.076004+00:00,8371.0,Kgal,True,False,False,False
+1019,2022-09-14 04:59:07.076004+00:00,8374.2998046875,Kgal,True,False,False,False
+1020,2022-09-14 05:46:02.070007300+00:00,8375.099609375,Kgal,True,False,False,False
+1021,2022-09-14 06:39:32.079010+00:00,8376.2998046875,Kgal,True,False,False,False
+1022,2022-09-14 08:17:57.075012200+00:00,8377.400390625,Kgal,True,False,False,False
+1023,2022-09-14 09:30:17.083007800+00:00,8378.099609375,Kgal,True,False,False,False
+1024,2022-09-14 17:22:39.072006200+00:00,8378.099609375,Kgal,True,False,False,False
+1025,2022-09-15 00:07:14.083007800+00:00,8378.2998046875,Kgal,True,False,False,False
+1026,2022-09-15 03:29:34.082000700+00:00,8383.7001953125,Kgal,True,False,False,False
+1027,2022-09-15 04:55:29.074005100+00:00,8387.0,Kgal,True,False,False,False
+1028,2022-09-15 05:41:34.082000700+00:00,8387.7001953125,Kgal,True,False,False,False
+1029,2022-09-15 06:36:04.085006700+00:00,8389.0,Kgal,True,False,False,False
+1030,2022-09-15 08:17:54.073013300+00:00,8390.099609375,Kgal,True,False,False,False
+1031,2022-09-15 09:26:49.076004+00:00,8390.7998046875,Kgal,True,False,False,False
+1032,2022-09-15 17:18:49.084014800+00:00,8390.7998046875,Kgal,True,False,False,False
+1033,2022-09-16 00:07:31.070007300+00:00,8391.0,Kgal,True,False,False,False
+1034,2022-09-16 03:29:11.077011100+00:00,8396.400390625,Kgal,True,False,False,False
+1035,2022-09-16 04:52:49.069000200+00:00,8399.7001953125,Kgal,True,False,False,False
+1036,2022-09-16 05:40:29.083007800+00:00,8400.400390625,Kgal,True,False,False,False
+1037,2022-09-16 06:31:49.077011100+00:00,8401.7001953125,Kgal,True,False,False,False
+1038,2022-09-16 08:19:49.082000700+00:00,8402.900390625,Kgal,True,False,False,False
+1039,2022-09-16 09:32:39.095001200+00:00,8403.599609375,Kgal,True,False,False,False
+1040,2022-09-16 17:29:34.074005100+00:00,8403.599609375,Kgal,True,False,False,False
+1041,2022-09-17 00:07:29.086013700+00:00,8403.7998046875,Kgal,True,False,False,False
+1042,2022-09-17 02:17:24.082000700+00:00,8407.2998046875,Kgal,True,False,False,False
+1043,2022-09-17 03:29:29.090011500+00:00,8409.2001953125,Kgal,True,False,False,False
+1044,2022-09-17 04:57:24.083007800+00:00,8412.599609375,Kgal,True,False,False,False
+1045,2022-09-17 05:42:34.082000700+00:00,8413.2998046875,Kgal,True,False,False,False
+1046,2022-09-17 06:37:49.093002300+00:00,8414.599609375,Kgal,True,False,False,False
+1047,2022-09-17 08:20:59.093002300+00:00,8415.7998046875,Kgal,True,False,False,False
+1048,2022-09-17 09:38:44.087005600+00:00,8416.5,Kgal,True,False,False,False
+1049,2022-09-17 17:31:59.093002300+00:00,8416.5,Kgal,True,False,False,False
+1050,2022-09-18 00:07:59.090011500+00:00,8416.7001953125,Kgal,True,False,False,False
+1051,2022-09-18 03:28:14.083007800+00:00,8422.099609375,Kgal,True,False,False,False
+1052,2022-09-18 04:53:44.085006700+00:00,8425.5,Kgal,True,False,False,False
+1053,2022-09-18 05:35:54.071014400+00:00,8426.099609375,Kgal,True,False,False,False
+1054,2022-09-18 06:34:09.083007800+00:00,8427.599609375,Kgal,True,False,False,False
+1055,2022-09-18 08:20:54.083007800+00:00,8428.7998046875,Kgal,True,False,False,False
+1056,2022-09-18 09:34:54.077011100+00:00,8429.5,Kgal,True,False,False,False
+1057,2022-09-18 17:31:59.085006700+00:00,8429.5,Kgal,True,False,False,False
+1058,2022-09-19 01:28:54.091003400+00:00,8429.5,Kgal,True,False,False,False
+1059,2022-09-19 09:26:14.076004+00:00,8429.5,Kgal,True,False,False,False
+1060,2022-09-19 17:23:04.095001200+00:00,8429.5,Kgal,True,False,False,False
+1061,2022-09-20 01:19:54.095001200+00:00,8429.5,Kgal,True,False,False,False
+1062,2022-09-20 09:16:54.082000700+00:00,8429.5,Kgal,True,False,False,False
+1063,2022-09-20 17:08:44.088012600+00:00,8429.5,Kgal,True,False,False,False
+1064,2022-09-21 00:08:04.076004+00:00,8429.7001953125,Kgal,True,False,False,False
+1065,2022-09-21 03:28:19.084014800+00:00,8435.099609375,Kgal,True,False,False,False
+1066,2022-09-21 04:53:29.090011500+00:00,8438.5,Kgal,True,False,False,False
+1067,2022-09-21 05:37:29.078002900+00:00,8439.099609375,Kgal,True,False,False,False
+1068,2022-09-21 06:52:24.081008900+00:00,8441.099609375,Kgal,True,False,False,False
+1069,2022-09-21 08:15:24.079010+00:00,8441.900390625,Kgal,True,False,False,False
+1070,2022-09-21 09:33:14.073013300+00:00,8442.7001953125,Kgal,True,False,False,False
+1071,2022-09-21 17:24:59.077011100+00:00,8442.7001953125,Kgal,True,False,False,False
+1072,2022-09-22 00:08:39.073013300+00:00,8442.900390625,Kgal,True,False,False,False
+1073,2022-09-22 03:29:04.093002300+00:00,8448.2998046875,Kgal,True,False,False,False
+1074,2022-09-22 04:54:49.070007300+00:00,8451.7001953125,Kgal,True,False,False,False
+1075,2022-09-22 05:38:04.091003400+00:00,8452.2998046875,Kgal,True,False,False,False
+1076,2022-09-22 06:54:24.076004+00:00,8454.2998046875,Kgal,True,False,False,False
+1077,2022-09-22 08:15:49.095001200+00:00,8455.099609375,Kgal,True,False,False,False
+1078,2022-09-22 09:35:14.071014400+00:00,8455.900390625,Kgal,True,False,False,False
+1079,2022-09-22 17:34:59.087005600+00:00,8455.900390625,Kgal,True,False,False,False
+1080,2022-09-23 00:08:39.090011500+00:00,8456.099609375,Kgal,True,False,False,False
+1081,2022-09-23 03:29:54.095001200+00:00,8461.7998046875,Kgal,True,False,False,False
+1082,2022-09-23 04:57:04.087005600+00:00,8465.2998046875,Kgal,True,False,False,False
+1083,2022-09-23 05:38:34.081008900+00:00,8465.900390625,Kgal,True,False,False,False
+1084,2022-09-23 07:00:29.084014800+00:00,8468.0,Kgal,True,False,False,False
+1085,2022-09-23 08:13:24.091003400+00:00,8468.7001953125,Kgal,True,False,False,False
+1086,2022-09-23 09:26:04.082000700+00:00,8469.5,Kgal,True,False,False,False
+1087,2022-09-23 17:23:09.094009300+00:00,8469.5,Kgal,True,False,False,False
+1088,2022-09-24 00:07:19.095001200+00:00,8469.7001953125,Kgal,True,False,False,False
+1089,2022-09-24 03:30:09.084014800+00:00,8475.099609375,Kgal,True,False,False,False
+1090,2022-09-24 04:56:19.073013300+00:00,8478.400390625,Kgal,True,False,False,False
+1091,2022-09-24 05:42:14.094009300+00:00,8479.099609375,Kgal,True,False,False,False
+1092,2022-09-24 06:56:54.075012200+00:00,8481.0,Kgal,True,False,False,False
+1093,2022-09-24 08:16:04.075012200+00:00,8481.7998046875,Kgal,True,False,False,False
+1094,2022-09-24 09:37:24.094009300+00:00,8482.599609375,Kgal,True,False,False,False
+1095,2022-09-24 17:35:54.072006200+00:00,8482.599609375,Kgal,True,False,False,False
+1096,2022-09-25 00:09:09.094009300+00:00,8482.7998046875,Kgal,True,False,False,False
+1097,2022-09-25 03:28:59.075012200+00:00,8488.2001953125,Kgal,True,False,False,False
+1098,2022-09-25 04:20:44.069000200+00:00,8490.2998046875,Kgal,True,False,False,False
+1099,2022-09-25 04:20:53.108001700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1100,2022-09-25 04:23:14.083007800+00:00,8490.400390625,Kgal,True,False,False,False
+1101,2022-09-25 04:54:54.081008900+00:00,8491.599609375,Kgal,True,False,False,False
+1102,2022-09-25 05:37:59.075012200+00:00,8492.2001953125,Kgal,True,False,False,False
+1103,2022-09-25 06:58:14.069000200+00:00,8494.2998046875,Kgal,True,False,False,False
+1104,2022-09-25 08:13:39.078002900+00:00,8495.0,Kgal,True,False,False,False
+1105,2022-09-25 09:26:49.072006200+00:00,8495.7998046875,Kgal,True,False,False,False
+1106,2022-09-25 17:26:39.071014400+00:00,8495.7998046875,Kgal,True,False,False,False
+1107,2022-09-26 01:20:49.074005100+00:00,8495.7998046875,Kgal,True,False,False,False
+1108,2022-09-26 09:19:49.075012200+00:00,8495.7998046875,Kgal,True,False,False,False
+1109,2022-09-26 17:14:24.071014400+00:00,8495.7998046875,Kgal,True,False,False,False
+1110,2022-09-27 01:13:19.080001800+00:00,8495.7998046875,Kgal,True,False,False,False
+1111,2022-09-27 09:08:04.073013300+00:00,8495.7998046875,Kgal,True,False,False,False
+1112,2022-09-27 17:07:24.067001300+00:00,8495.7998046875,Kgal,True,False,False,False
+1113,2022-09-28 00:07:24.069000200+00:00,8496.0,Kgal,True,False,False,False
+1114,2022-09-28 03:29:04.070007300+00:00,8501.5,Kgal,True,False,False,False
+1115,2022-09-28 04:56:09.069000200+00:00,8504.900390625,Kgal,True,False,False,False
+1116,2022-09-28 05:38:44.070007300+00:00,8505.5,Kgal,True,False,False,False
+1117,2022-09-28 06:52:09.065002400+00:00,8507.5,Kgal,True,False,False,False
+1118,2022-09-28 08:15:54.146011300+00:00,8508.2998046875,Kgal,True,False,False,False
+1119,2022-09-28 09:33:24.068008400+00:00,8509.099609375,Kgal,True,False,False,False
+1120,2022-09-28 17:33:19.066009500+00:00,8509.099609375,Kgal,True,False,False,False
+1121,2022-09-29 00:09:09.063003500+00:00,8509.2998046875,Kgal,True,False,False,False
+1122,2022-09-29 03:29:54.067001300+00:00,8514.7001953125,Kgal,True,False,False,False
+1123,2022-09-29 04:55:54.067001300+00:00,8518.0,Kgal,True,False,False,False
+1124,2022-09-29 05:41:59.066009500+00:00,8518.7001953125,Kgal,True,False,False,False
+1125,2022-09-29 06:56:24.069000200+00:00,8520.599609375,Kgal,True,False,False,False
+1126,2022-09-29 08:16:19.065002400+00:00,8521.400390625,Kgal,True,False,False,False
+1127,2022-09-29 09:37:09.177001900+00:00,8522.2001953125,Kgal,True,False,False,False
+1128,2022-09-29 17:36:29.066009500+00:00,8522.2001953125,Kgal,True,False,False,False
+1129,2022-09-30 00:09:24.070007300+00:00,8522.400390625,Kgal,True,False,False,False
+1130,2022-09-30 03:27:29.067001300+00:00,8527.7001953125,Kgal,True,False,False,False
+1131,2022-09-30 03:36:54.065002400+00:00,8528.099609375,Kgal,True,False,False,False
+1132,2022-09-30 03:37:03.010009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1133,2022-09-30 03:37:04.072006200+00:00,8528.099609375,Kgal,True,False,False,False
+1134,2022-09-30 04:57:24.065002400+00:00,8531.2001953125,Kgal,True,False,False,False
+1135,2022-09-30 05:39:34.065002400+00:00,8531.7998046875,Kgal,True,False,False,False
+1136,2022-09-30 06:57:59.063003500+00:00,8533.7998046875,Kgal,True,False,False,False
+1137,2022-09-30 08:12:09.064010600+00:00,8534.5,Kgal,True,False,False,False
+1138,2022-09-30 09:28:39.067001300+00:00,8535.400390625,Kgal,True,False,False,False
+1139,2022-09-30 17:20:44.064010600+00:00,8535.400390625,Kgal,True,False,False,False
+1140,2022-10-01 00:09:59.064010600+00:00,8535.599609375,Kgal,True,False,False,False
+1141,2022-10-01 03:28:44.070007300+00:00,8541.0,Kgal,True,False,False,False
+1142,2022-10-01 04:53:34.067001300+00:00,8544.400390625,Kgal,True,False,False,False
+1143,2022-10-01 05:36:59.066009500+00:00,8545.0,Kgal,True,False,False,False
+1144,2022-10-01 06:58:19.068008400+00:00,8547.099609375,Kgal,True,False,False,False
+1145,2022-10-01 08:13:44.068008400+00:00,8547.7998046875,Kgal,True,False,False,False
+1146,2022-10-01 09:27:14.063003500+00:00,8548.599609375,Kgal,True,False,False,False
+1147,2022-10-01 17:26:59.067001300+00:00,8548.599609375,Kgal,True,False,False,False
+1148,2022-10-02 00:07:34.066009500+00:00,8548.7998046875,Kgal,True,False,False,False
+1149,2022-10-02 03:26:34.066009500+00:00,8554.2001953125,Kgal,True,False,False,False
+1150,2022-10-02 04:52:49.070007300+00:00,8557.7001953125,Kgal,True,False,False,False
+1151,2022-10-02 05:40:04.065002400+00:00,8558.400390625,Kgal,True,False,False,False
+1152,2022-10-02 07:00:34.068008400+00:00,8560.400390625,Kgal,True,False,False,False
+1153,2022-10-02 08:16:24.069000200+00:00,8561.2001953125,Kgal,True,False,False,False
+1154,2022-10-02 09:32:39.070007300+00:00,8562.0,Kgal,True,False,False,False
+1155,2022-10-02 17:24:29.064010600+00:00,8562.0,Kgal,True,False,False,False
+1156,2022-10-03 01:15:59.065002400+00:00,8562.0,Kgal,True,False,False,False
+1157,2022-10-03 09:07:54.066009500+00:00,8562.0,Kgal,True,False,False,False
+1158,2022-10-03 17:00:04.066009500+00:00,8562.0,Kgal,True,False,False,False
+1159,2022-10-04 00:56:54.078002900+00:00,8562.0,Kgal,True,False,False,False
+1160,2022-10-04 08:49:14.077011100+00:00,8562.0,Kgal,True,False,False,False
+1161,2022-10-04 16:41:39.083007800+00:00,8562.0,Kgal,True,False,False,False
+1162,2022-10-05 00:33:49.069000200+00:00,8562.0,Kgal,True,False,False,False
+1163,2022-10-05 08:25:54.077011100+00:00,8562.0,Kgal,True,False,False,False
+1164,2022-10-05 16:18:09.083007800+00:00,8562.0,Kgal,True,False,False,False
+1165,2022-10-06 00:14:53.071014400+00:00,8562.0,Kgal,True,False,False,False
+1166,2022-10-06 08:06:28.075012200+00:00,8562.0,Kgal,True,False,False,False
+1167,2022-10-06 15:58:18.074005100+00:00,8562.0,Kgal,True,False,False,False
+1168,2022-10-06 23:50:33.072006200+00:00,8562.0,Kgal,True,False,False,False
+1169,2022-10-07 07:42:28.074005100+00:00,8562.0,Kgal,True,False,False,False
+1170,2022-10-07 15:33:21.067001300+00:00,8562.0,Kgal,True,False,False,False
+1171,2022-10-07 16:01:35.012008600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1172,2022-10-07 16:01:36.163009600+00:00,8562.0,Kgal,True,False,False,False
+1173,2022-10-07 16:02:30.011001500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1174,2022-10-07 16:02:31.069000200+00:00,8562.0,Kgal,True,False,False,False
+1175,2022-10-07 23:54:06.064010600+00:00,8562.0,Kgal,True,False,False,False
+1176,2022-10-08 07:45:56.065002400+00:00,8562.0,Kgal,True,False,False,False
+1177,2022-10-08 15:37:36.066009500+00:00,8562.0,Kgal,True,False,False,False
+1178,2022-10-08 23:29:31.063003500+00:00,8562.0,Kgal,True,False,False,False
+1179,2022-10-09 07:21:06.069000200+00:00,8562.0,Kgal,True,False,False,False
+1180,2022-10-09 15:13:11.064010600+00:00,8562.0,Kgal,True,False,False,False
+1181,2022-10-09 23:05:11.064010600+00:00,8562.0,Kgal,True,False,False,False
+1182,2022-10-10 06:57:11.066009500+00:00,8562.0,Kgal,True,False,False,False
+1183,2022-10-10 14:49:16.063003500+00:00,8562.0,Kgal,True,False,False,False
+1184,2022-10-10 22:40:56.061004600+00:00,8562.0,Kgal,True,False,False,False
+1185,2022-10-11 06:32:51.065002400+00:00,8562.0,Kgal,True,False,False,False
+1186,2022-10-11 14:24:26.062011700+00:00,8562.0,Kgal,True,False,False,False
+1187,2022-10-11 22:16:11.066009500+00:00,8562.0,Kgal,True,False,False,False
+1188,2022-10-12 06:07:56.065002400+00:00,8562.0,Kgal,True,False,False,False
+1189,2022-10-12 13:58:27.084014800+00:00,8562.0,Kgal,True,False,False,False
+1190,2022-10-12 21:50:44.087005600+00:00,8562.0,Kgal,True,False,False,False
+1191,2022-10-13 04:07:13.042007400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1192,2022-10-13 04:07:14.090011500+00:00,8562.0,Kgal,True,False,False,False
+1193,2022-10-13 11:59:39.091003400+00:00,8562.0,Kgal,True,False,False,False
+1194,2022-10-13 19:51:44.089004500+00:00,8562.0,Kgal,True,False,False,False
+1195,2022-10-13 21:10:08.046005200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1196,2022-10-13 21:10:09.095001200+00:00,8562.0,Kgal,True,False,False,False
+1197,2022-10-14 05:02:19.096008300+00:00,8562.0,Kgal,True,False,False,False
+1198,2022-10-14 12:54:29.082000700+00:00,8562.0,Kgal,True,False,False,False
+1199,2022-10-14 20:46:44.086013700+00:00,8562.0,Kgal,True,False,False,False
+1200,2022-10-15 04:38:44.088012600+00:00,8562.0,Kgal,True,False,False,False
+1201,2022-10-15 12:30:39.074005100+00:00,8562.0,Kgal,True,False,False,False
+1202,2022-10-15 20:22:54.147003100+00:00,8562.0,Kgal,True,False,False,False
+1203,2022-10-15 21:25:58.032012900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1204,2022-10-15 21:26:14.127014100+00:00,8562.0,Kgal,True,False,False,False
+1205,2022-10-16 05:18:14.092010400+00:00,8562.0,Kgal,True,False,False,False
+1206,2022-10-16 13:10:29.093002300+00:00,8562.0,Kgal,True,False,False,False
+1207,2022-10-16 21:02:49.089004500+00:00,8562.0,Kgal,True,False,False,False
+1208,2022-10-17 04:54:44.095001200+00:00,8562.0,Kgal,True,False,False,False
+1209,2022-10-17 12:46:19.085006700+00:00,8562.0,Kgal,True,False,False,False
+1210,2022-10-17 20:38:29.094009300+00:00,8562.0,Kgal,True,False,False,False
+1211,2022-10-18 04:35:06.072006200+00:00,8562.0,Kgal,True,False,False,False
+1212,2022-10-18 12:27:11.072006200+00:00,8562.0,Kgal,True,False,False,False
+1213,2022-10-18 19:43:25.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1214,2022-10-18 19:46:36.074005100+00:00,8562.0,Kgal,True,False,False,False
+1215,2022-10-19 03:38:31.068008400+00:00,8562.0,Kgal,True,False,False,False
+1216,2022-10-19 11:30:46.071014400+00:00,8562.0,Kgal,True,False,False,False
+1217,2022-10-19 19:23:06.071014400+00:00,8562.0,Kgal,True,False,False,False
+1218,2022-10-20 03:15:26.069000200+00:00,8562.0,Kgal,True,False,False,False
+1219,2022-10-20 11:07:31.071014400+00:00,8562.0,Kgal,True,False,False,False
+1220,2022-10-20 18:59:21.071014400+00:00,8562.0,Kgal,True,False,False,False
+1221,2022-10-21 02:51:21.070007300+00:00,8562.0,Kgal,True,False,False,False
+1222,2022-10-21 10:43:16.070007300+00:00,8562.0,Kgal,True,False,False,False
+1223,2022-10-21 18:35:01.069000200+00:00,8562.0,Kgal,True,False,False,False
+1224,2022-10-22 02:21:20.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1225,2022-10-22 02:21:21.081008900+00:00,8562.0,Kgal,True,False,False,False
+1226,2022-10-22 10:13:31.068008400+00:00,8562.0,Kgal,True,False,False,False
+1227,2022-10-22 18:05:41.068008400+00:00,8562.0,Kgal,True,False,False,False
+1228,2022-10-23 01:58:01.072006200+00:00,8562.0,Kgal,True,False,False,False
+1229,2022-10-23 04:02:08.168014500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1230,2022-10-23 04:03:59.085006700+00:00,8562.0,Kgal,True,False,False,False
+1231,2022-10-23 04:04:28.038009600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1232,2022-10-23 04:05:26.124008100+00:00,8562.0,Kgal,True,False,False,False
+1233,2022-10-23 04:27:53.174011200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1234,2022-10-23 04:29:56.071014400+00:00,8562.0,Kgal,True,False,False,False
+1235,2022-10-23 12:22:01.073013300+00:00,8562.0,Kgal,True,False,False,False
+1236,2022-10-23 20:13:51.070007300+00:00,8562.0,Kgal,True,False,False,False
+1237,2022-10-24 04:05:41.070007300+00:00,8562.0,Kgal,True,False,False,False
+1238,2022-10-24 11:58:01.078002900+00:00,8562.0,Kgal,True,False,False,False
+1239,2022-10-24 19:50:06.073013300+00:00,8562.0,Kgal,True,False,False,False
+1240,2022-10-25 03:42:46.069000200+00:00,8562.0,Kgal,True,False,False,False
+1241,2022-10-25 11:34:21.073013300+00:00,8562.0,Kgal,True,False,False,False
+1242,2022-10-25 19:26:36.070007300+00:00,8562.0,Kgal,True,False,False,False
+1243,2022-10-26 03:18:46.074005100+00:00,8562.0,Kgal,True,False,False,False
+1244,2022-10-26 11:10:51.072006200+00:00,8562.0,Kgal,True,False,False,False
+1245,2022-10-26 19:02:41.072006200+00:00,8562.0,Kgal,True,False,False,False
+1246,2022-10-27 02:54:36.076004+00:00,8562.0,Kgal,True,False,False,False
+1247,2022-10-27 10:46:21.074005100+00:00,8562.0,Kgal,True,False,False,False
+1248,2022-10-27 18:38:01.074005100+00:00,8562.0,Kgal,True,False,False,False
+1249,2022-10-28 02:30:01.071014400+00:00,8562.0,Kgal,True,False,False,False
+1250,2022-10-28 10:22:11.070007300+00:00,8562.0,Kgal,True,False,False,False
+1251,2022-10-28 18:14:01.075012200+00:00,8562.0,Kgal,True,False,False,False
+1252,2022-10-29 02:05:46.076004+00:00,8562.0,Kgal,True,False,False,False
+1253,2022-10-29 09:57:46.073013300+00:00,8562.0,Kgal,True,False,False,False
+1254,2022-10-29 17:50:06.068008400+00:00,8562.0,Kgal,True,False,False,False
+1255,2022-10-30 01:42:11.070007300+00:00,8562.0,Kgal,True,False,False,False
+1256,2022-10-30 09:34:01.071014400+00:00,8562.0,Kgal,True,False,False,False
+1257,2022-10-30 17:26:01.073013300+00:00,8562.0,Kgal,True,False,False,False
+1258,2022-10-31 01:17:51.076004+00:00,8562.0,Kgal,True,False,False,False
+1259,2022-10-31 09:09:51.070007300+00:00,8562.0,Kgal,True,False,False,False
+1260,2022-10-31 17:01:46.070007300+00:00,8562.0,Kgal,True,False,False,False
+1261,2022-11-01 00:53:31.069000200+00:00,8562.0,Kgal,True,False,False,False
+1262,2022-11-01 08:45:21.068008400+00:00,8562.0,Kgal,True,False,False,False
+1263,2022-11-01 16:37:26.070007300+00:00,8562.0,Kgal,True,False,False,False
+1264,2022-11-01 21:17:05.015014600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1265,2022-11-01 21:17:06.071014400+00:00,8562.0,Kgal,True,False,False,False
+1266,2022-11-02 05:08:51.070007300+00:00,8562.0,Kgal,True,False,False,False
+1267,2022-11-02 13:00:46.074005100+00:00,8562.0,Kgal,True,False,False,False
+1268,2022-11-02 20:52:41.070007300+00:00,8562.0,Kgal,True,False,False,False
+1269,2022-11-03 04:44:51.092010400+00:00,8562.0,Kgal,True,False,False,False
+1270,2022-11-03 12:37:01.074005100+00:00,8562.0,Kgal,True,False,False,False
+1271,2022-11-03 20:29:06.072006200+00:00,8562.0,Kgal,True,False,False,False
+1272,2022-11-04 04:21:06.069000200+00:00,8562.0,Kgal,True,False,False,False
+1273,2022-11-04 12:12:41.070007300+00:00,8562.0,Kgal,True,False,False,False
+1274,2022-11-04 12:37:37.102005+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1275,2022-11-04 12:37:41.083007800+00:00,8562.0,Kgal,True,False,False,False
+1276,2022-11-04 12:42:58.518005300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1277,2022-11-04 12:42:59.091003400+00:00,8562.0,Kgal,True,False,False,False
+1278,2022-11-04 20:34:54.085006700+00:00,8562.0,Kgal,True,False,False,False
+1279,2022-11-05 04:27:04.081008900+00:00,8562.0,Kgal,True,False,False,False
+1280,2022-11-05 12:19:19.083007800+00:00,8562.0,Kgal,True,False,False,False
+1281,2022-11-05 20:11:39.073013300+00:00,8562.0,Kgal,True,False,False,False
+1282,2022-11-06 04:03:24.081008900+00:00,8562.0,Kgal,True,False,False,False
+1283,2022-11-06 06:07:43.045013400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1284,2022-11-06 06:20:54.086013700+00:00,8562.0,Kgal,True,False,False,False
+1285,2022-11-06 14:13:09.091003400+00:00,8562.0,Kgal,True,False,False,False
+1286,2022-11-06 22:04:54.085006700+00:00,8562.0,Kgal,True,False,False,False
+1287,2022-11-07 05:56:49.071014400+00:00,8562.0,Kgal,True,False,False,False
+1288,2022-11-07 13:48:59.071014400+00:00,8562.0,Kgal,True,False,False,False
+1289,2022-11-07 21:40:49.082000700+00:00,8562.0,Kgal,True,False,False,False
+1290,2022-11-08 03:17:28.139007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1291,2022-11-08 03:17:46.074005100+00:00,8562.0,Kgal,True,False,False,False
+1292,2022-11-08 11:09:36.075012200+00:00,8562.0,Kgal,True,False,False,False
+1293,2022-11-08 19:01:46.074005100+00:00,8562.0,Kgal,True,False,False,False
+1294,2022-11-09 02:53:56.073013300+00:00,8562.0,Kgal,True,False,False,False
+1295,2022-11-09 10:45:56.076004+00:00,8562.0,Kgal,True,False,False,False
+1296,2022-11-09 18:37:51.073013300+00:00,8562.0,Kgal,True,False,False,False
+1297,2022-11-10 02:29:36.076004+00:00,8562.0,Kgal,True,False,False,False
+1298,2022-11-10 10:21:21.069000200+00:00,8562.0,Kgal,True,False,False,False
+1299,2022-11-10 18:13:06.074005100+00:00,8562.0,Kgal,True,False,False,False
+1300,2022-11-10 19:28:30.014007500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1301,2022-11-10 19:28:49.107009800+00:00,8562.0,Kgal,True,False,False,False
+1302,2022-11-11 03:20:21.073013300+00:00,8562.0,Kgal,True,False,False,False
+1303,2022-11-11 11:12:21.069000200+00:00,8562.0,Kgal,True,False,False,False
+1304,2022-11-11 19:04:17.069000200+00:00,8562.0,Kgal,True,False,False,False
+1305,2022-11-11 19:47:15.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1306,2022-11-11 19:47:16.070007300+00:00,8562.0,Kgal,True,False,False,False
+1307,2022-11-12 03:39:01.074005100+00:00,8562.0,Kgal,True,False,False,False
+1308,2022-11-12 11:30:46.073013300+00:00,8562.0,Kgal,True,False,False,False
+1309,2022-11-12 19:22:21.071014400+00:00,8562.0,Kgal,True,False,False,False
+1310,2022-11-13 03:14:16.069000200+00:00,8562.0,Kgal,True,False,False,False
+1311,2022-11-13 11:06:11.074005100+00:00,8562.0,Kgal,True,False,False,False
+1312,2022-11-13 18:58:16.068008400+00:00,8562.0,Kgal,True,False,False,False
+1313,2022-11-14 02:50:01.069000200+00:00,8562.0,Kgal,True,False,False,False
+1314,2022-11-14 10:41:56.072006200+00:00,8562.0,Kgal,True,False,False,False
+1315,2022-11-14 15:29:50.049011200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1316,2022-11-14 15:29:51.072006200+00:00,8562.0,Kgal,True,False,False,False
+1317,2022-11-14 23:21:46.074005100+00:00,8562.0,Kgal,True,False,False,False
+1318,2022-11-15 03:50:08.045013400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1319,2022-11-15 03:50:09.088012600+00:00,8562.0,Kgal,True,False,False,False
+1320,2022-11-15 03:50:10.024002+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1321,2022-11-15 03:52:46.092010400+00:00,8562.0,Kgal,True,False,False,False
+1322,2022-11-15 11:51:59.088012600+00:00,8562.0,Kgal,True,False,False,False
+1323,2022-11-15 19:44:04.086013700+00:00,8562.0,Kgal,True,False,False,False
+1324,2022-11-16 03:36:14.074005100+00:00,8562.0,Kgal,True,False,False,False
+1325,2022-11-16 11:28:24.082000700+00:00,8562.0,Kgal,True,False,False,False
+1326,2022-11-16 19:20:19.070007300+00:00,8562.0,Kgal,True,False,False,False
+1327,2022-11-17 03:12:39.089004500+00:00,8562.0,Kgal,True,False,False,False
+1328,2022-11-17 11:04:44.093002300+00:00,8562.0,Kgal,True,False,False,False
+1329,2022-11-17 16:20:28.038009600+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1330,2022-11-17 16:21:05.166000300+00:00,8562.0,Kgal,True,False,False,False
+1331,2022-11-18 00:13:14.079010+00:00,8562.0,Kgal,True,False,False,False
+1332,2022-11-18 05:13:13.135009700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1333,2022-11-18 05:13:14.081008900+00:00,8562.0,Kgal,True,False,False,False
+1334,2022-11-18 05:21:35.138000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1335,2022-11-18 05:22:46.164001400+00:00,8562.0,Kgal,True,False,False,False
+1336,2022-11-18 05:31:50.096008300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1337,2022-11-18 05:33:01.078002900+00:00,8562.0,Kgal,True,False,False,False
+1338,2022-11-18 05:33:50.054000800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1339,2022-11-18 05:33:51.068008400+00:00,8562.0,Kgal,True,False,False,False
+1340,2022-11-18 13:26:01.072006200+00:00,8562.0,Kgal,True,False,False,False
+1341,2022-11-18 21:17:56.069000200+00:00,8562.0,Kgal,True,False,False,False
+1342,2022-11-19 05:09:46.072006200+00:00,8562.0,Kgal,True,False,False,False
+1343,2022-11-19 13:01:46.105010900+00:00,8562.0,Kgal,True,False,False,False
+1344,2022-11-19 20:54:01.071014400+00:00,8562.0,Kgal,True,False,False,False
+1345,2022-11-20 04:46:16.067001300+00:00,8562.0,Kgal,True,False,False,False
+1346,2022-11-20 05:25:25.013000400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1347,2022-11-20 05:25:41.115005400+00:00,8562.0,Kgal,True,False,False,False
+1348,2022-11-20 05:26:00.016006400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1349,2022-11-20 05:26:04.124008100+00:00,8562.0,Kgal,True,False,False,False
+1350,2022-11-20 13:18:16.072006200+00:00,8562.0,Kgal,True,False,False,False
+1351,2022-11-20 21:09:41.094009300+00:00,8562.0,Kgal,True,False,False,False
+1352,2022-11-21 05:01:56.071014400+00:00,8562.0,Kgal,True,False,False,False
+1353,2022-11-21 12:53:56.072006200+00:00,8562.0,Kgal,True,False,False,False
+1354,2022-11-21 20:45:56.072006200+00:00,8562.0,Kgal,True,False,False,False
+1355,2022-11-22 04:38:11.070007300+00:00,8562.0,Kgal,True,False,False,False
+1356,2022-11-22 12:30:21.070007300+00:00,8562.0,Kgal,True,False,False,False
+1357,2022-11-22 20:22:01.070007300+00:00,8562.0,Kgal,True,False,False,False
+1358,2022-11-23 04:13:24.071014400+00:00,8562.0,Kgal,True,False,False,False
+1359,2022-11-23 12:05:24.070007300+00:00,8562.0,Kgal,True,False,False,False
+1360,2022-11-23 19:56:59.073013300+00:00,8562.0,Kgal,True,False,False,False
+1361,2022-11-24 03:49:04.075012200+00:00,8562.0,Kgal,True,False,False,False
+1362,2022-11-24 11:41:24.070007300+00:00,8562.0,Kgal,True,False,False,False
+1363,2022-11-24 19:33:04.070007300+00:00,8562.0,Kgal,True,False,False,False
+1364,2022-11-25 03:24:59.067001300+00:00,8562.0,Kgal,True,False,False,False
+1365,2022-11-25 11:16:49.070007300+00:00,8562.0,Kgal,True,False,False,False
+1366,2022-11-25 19:08:59.070007300+00:00,8562.0,Kgal,True,False,False,False
+1367,2022-11-26 03:00:54.069000200+00:00,8562.0,Kgal,True,False,False,False
+1368,2022-11-26 10:52:39.071014400+00:00,8562.0,Kgal,True,False,False,False
+1369,2022-11-26 18:45:04.071014400+00:00,8562.0,Kgal,True,False,False,False
+1370,2022-11-27 02:36:59.073013300+00:00,8562.0,Kgal,True,False,False,False
+1371,2022-11-27 10:29:14.071014400+00:00,8562.0,Kgal,True,False,False,False
+1372,2022-11-27 18:21:19.071014400+00:00,8562.0,Kgal,True,False,False,False
+1373,2022-11-28 02:13:34.066009500+00:00,8562.0,Kgal,True,False,False,False
+1374,2022-11-28 10:05:39.072006200+00:00,8562.0,Kgal,True,False,False,False
+1375,2022-11-28 17:57:24.069000200+00:00,8562.0,Kgal,True,False,False,False
+1376,2022-11-29 01:49:34.071014400+00:00,8562.0,Kgal,True,False,False,False
+1377,2022-11-29 09:41:29.073013300+00:00,8562.0,Kgal,True,False,False,False
+1378,2022-11-29 17:33:19.068008400+00:00,8562.0,Kgal,True,False,False,False
+1379,2022-11-30 01:24:59.068008400+00:00,8562.0,Kgal,True,False,False,False
+1380,2022-11-30 09:16:49.069000200+00:00,8562.0,Kgal,True,False,False,False
+1381,2022-11-30 17:08:54.073013300+00:00,8562.0,Kgal,True,False,False,False
+1382,2022-12-01 01:00:54.071014400+00:00,8562.0,Kgal,True,False,False,False
+1383,2022-12-01 08:52:54.069000200+00:00,8562.0,Kgal,True,False,False,False
+1384,2022-12-01 16:44:49.069000200+00:00,8562.0,Kgal,True,False,False,False
+1385,2022-12-02 00:36:49.067001300+00:00,8562.0,Kgal,True,False,False,False
+1386,2022-12-02 08:28:34.070007300+00:00,8562.0,Kgal,True,False,False,False
+1387,2022-12-02 16:20:34.068008400+00:00,8562.0,Kgal,True,False,False,False
+1388,2022-12-03 00:12:34.072006200+00:00,8562.0,Kgal,True,False,False,False
+1389,2022-12-03 08:04:39.071014400+00:00,8562.0,Kgal,True,False,False,False
+1390,2022-12-03 15:56:49.069000200+00:00,8562.0,Kgal,True,False,False,False
+1391,2022-12-03 23:48:34.068008400+00:00,8562.0,Kgal,True,False,False,False
+1392,2022-12-04 07:40:49.067001300+00:00,8562.0,Kgal,True,False,False,False
+1393,2022-12-04 10:06:23.077011100+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1394,2022-12-04 10:09:14.080001800+00:00,8562.0,Kgal,True,False,False,False
+1395,2022-12-04 10:10:58.059005700+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1396,2022-12-04 10:11:04.070007300+00:00,8562.0,Kgal,True,False,False,False
+1397,2022-12-04 18:03:44.094009300+00:00,8562.0,Kgal,True,False,False,False
+1398,2022-12-05 01:55:39.089004500+00:00,8562.0,Kgal,True,False,False,False
+1399,2022-12-05 09:47:34.078002900+00:00,8562.0,Kgal,True,False,False,False
+1400,2022-12-05 17:39:44.082000700+00:00,8562.0,Kgal,True,False,False,False
+1401,2022-12-06 01:31:49.077011100+00:00,8562.0,Kgal,True,False,False,False
+1402,2022-12-06 09:23:54.070007300+00:00,8562.0,Kgal,True,False,False,False
+1403,2022-12-06 17:15:54.082000700+00:00,8562.0,Kgal,True,False,False,False
+1404,2022-12-07 01:07:49.075012200+00:00,8562.0,Kgal,True,False,False,False
+1405,2022-12-07 08:59:29.078002900+00:00,8562.0,Kgal,True,False,False,False
+1406,2022-12-07 16:51:14.074005100+00:00,8562.0,Kgal,True,False,False,False
+1407,2022-12-08 00:43:14.076004+00:00,8562.0,Kgal,True,False,False,False
+1408,2022-12-08 08:35:29.080001800+00:00,8562.0,Kgal,True,False,False,False
+1409,2022-12-08 16:27:49.086013700+00:00,8562.0,Kgal,True,False,False,False
+1410,2022-12-09 00:19:49.074005100+00:00,8562.0,Kgal,True,False,False,False
+1411,2022-12-09 08:11:34.079010+00:00,8562.0,Kgal,True,False,False,False
+1412,2022-12-09 16:03:44.071014400+00:00,8562.0,Kgal,True,False,False,False
+1413,2022-12-10 00:00:24.096008300+00:00,8562.0,Kgal,True,False,False,False
+1414,2022-12-10 07:52:44.082000700+00:00,8562.0,Kgal,True,False,False,False
+1415,2022-12-10 15:44:49.091003400+00:00,8562.0,Kgal,True,False,False,False
+1416,2022-12-10 23:36:54.082000700+00:00,8562.0,Kgal,True,False,False,False
+1417,2022-12-11 07:28:54.090011500+00:00,8562.0,Kgal,True,False,False,False
+1418,2022-12-11 15:20:44.092010400+00:00,8562.0,Kgal,True,False,False,False
+1419,2022-12-11 23:12:54.079010+00:00,8562.0,Kgal,True,False,False,False
+1420,2022-12-12 07:04:54.086013700+00:00,8562.0,Kgal,True,False,False,False
+1421,2022-12-12 14:57:09.090011500+00:00,8562.0,Kgal,True,False,False,False
+1422,2022-12-12 22:49:19.076004+00:00,8562.0,Kgal,True,False,False,False
+1423,2022-12-13 06:41:29.085006700+00:00,8562.0,Kgal,True,False,False,False
+1424,2022-12-13 14:33:39.078002900+00:00,8562.0,Kgal,True,False,False,False
+1425,2022-12-13 22:25:39.073013300+00:00,8562.0,Kgal,True,False,False,False
+1426,2022-12-14 06:17:39.083007800+00:00,8562.0,Kgal,True,False,False,False
+1427,2022-12-14 14:09:34.084014800+00:00,8562.0,Kgal,True,False,False,False
+1428,2022-12-14 22:01:54.083007800+00:00,8562.0,Kgal,True,False,False,False
+1429,2022-12-15 05:53:39.085006700+00:00,8562.0,Kgal,True,False,False,False
+1430,2022-12-15 13:45:19.082000700+00:00,8562.0,Kgal,True,False,False,False
+1431,2022-12-15 21:37:19.082000700+00:00,8562.0,Kgal,True,False,False,False
+1432,2022-12-16 05:29:29.084014800+00:00,8562.0,Kgal,True,False,False,False
+1433,2022-12-16 13:21:04.072006200+00:00,8562.0,Kgal,True,False,False,False
+1434,2022-12-16 21:12:54.083007800+00:00,8562.0,Kgal,True,False,False,False
+1435,2022-12-17 05:05:24.071014400+00:00,8562.0,Kgal,True,False,False,False
+1436,2022-12-17 12:57:29.079010+00:00,8562.0,Kgal,True,False,False,False
+1437,2022-12-17 20:49:29.091003400+00:00,8562.0,Kgal,True,False,False,False
+1438,2022-12-18 04:41:44.070007300+00:00,8562.0,Kgal,True,False,False,False
+1439,2022-12-18 12:33:49.088012600+00:00,8562.0,Kgal,True,False,False,False
+1440,2022-12-18 20:25:44.077011100+00:00,8562.0,Kgal,True,False,False,False
+1441,2022-12-19 04:17:29.072006200+00:00,8562.0,Kgal,True,False,False,False
+1442,2022-12-19 12:09:24.079010+00:00,8562.0,Kgal,True,False,False,False
+1443,2022-12-19 20:01:29.083007800+00:00,8562.0,Kgal,True,False,False,False
+1444,2022-12-20 03:53:09.084014800+00:00,8562.0,Kgal,True,False,False,False
+1445,2022-12-20 11:44:59.070007300+00:00,8562.0,Kgal,True,False,False,False
+1446,2022-12-20 19:37:09.088012600+00:00,8562.0,Kgal,True,False,False,False
+1447,2022-12-21 03:29:29.076004+00:00,8562.0,Kgal,True,False,False,False
+1448,2022-12-21 11:21:44.081008900+00:00,8562.0,Kgal,True,False,False,False
+1449,2022-12-21 19:13:49.083007800+00:00,8562.0,Kgal,True,False,False,False
+1450,2022-12-22 03:05:49.074005100+00:00,8562.0,Kgal,True,False,False,False
+1451,2022-12-22 10:57:49.091003400+00:00,8562.0,Kgal,True,False,False,False
+1452,2022-12-22 18:50:14.081008900+00:00,8562.0,Kgal,True,False,False,False
+1453,2022-12-23 02:41:54.092010400+00:00,8562.0,Kgal,True,False,False,False
+1454,2022-12-23 10:33:54.092010400+00:00,8562.0,Kgal,True,False,False,False
+1455,2022-12-23 18:25:59.093002300+00:00,8562.0,Kgal,True,False,False,False
+1456,2022-12-24 02:17:59.084014800+00:00,8562.0,Kgal,True,False,False,False
+1457,2022-12-24 10:09:54.080001800+00:00,8562.0,Kgal,True,False,False,False
+1458,2022-12-24 18:02:24.076004+00:00,8562.0,Kgal,True,False,False,False
+1459,2022-12-25 01:54:34.083007800+00:00,8562.0,Kgal,True,False,False,False
+1460,2022-12-25 09:46:29.089004500+00:00,8562.0,Kgal,True,False,False,False
+1461,2022-12-25 17:38:44.073013300+00:00,8562.0,Kgal,True,False,False,False
+1462,2022-12-26 01:30:44.080001800+00:00,8562.0,Kgal,True,False,False,False
+1463,2022-12-26 09:22:49.078002900+00:00,8562.0,Kgal,True,False,False,False
+1464,2022-12-26 17:14:39.085006700+00:00,8562.0,Kgal,True,False,False,False
+1465,2022-12-27 01:06:39.085006700+00:00,8562.0,Kgal,True,False,False,False
+1466,2022-12-27 08:58:24.082000700+00:00,8562.0,Kgal,True,False,False,False
+1467,2022-12-27 16:50:24.095001200+00:00,8562.0,Kgal,True,False,False,False
+1468,2022-12-28 00:42:49.075012200+00:00,8562.0,Kgal,True,False,False,False
+1469,2022-12-28 08:34:59.079010+00:00,8562.0,Kgal,True,False,False,False
+1470,2022-12-28 16:26:44.083007800+00:00,8562.0,Kgal,True,False,False,False
+1471,2022-12-29 00:18:44.085006700+00:00,8562.0,Kgal,True,False,False,False
+1472,2022-12-29 08:10:49.089004500+00:00,8562.0,Kgal,True,False,False,False
+1473,2022-12-29 16:03:04.071014400+00:00,8562.0,Kgal,True,False,False,False
+1474,2022-12-29 23:55:09.079010+00:00,8562.0,Kgal,True,False,False,False
+1475,2022-12-30 03:46:09.095001200+00:00,8562.0,Kgal,True,False,False,False
+1476,2023-01-01 14:38:16.180007900+00:00,8562.0,Kgal,True,False,False,False
+1477,2023-01-01 22:30:16.095001200+00:00,8562.0,Kgal,True,False,False,False
+1478,2023-01-02 06:22:31.092010400+00:00,8562.0,Kgal,True,False,False,False
+1479,2023-01-02 14:14:36.091003400+00:00,8562.0,Kgal,True,False,False,False
+1480,2023-01-02 22:06:41.084014800+00:00,8562.0,Kgal,True,False,False,False
+1481,2023-01-03 05:58:56.079010+00:00,8562.0,Kgal,True,False,False,False
+1482,2023-01-03 13:51:06.081008900+00:00,8562.0,Kgal,True,False,False,False
+1483,2023-01-03 21:43:11.084014800+00:00,8562.0,Kgal,True,False,False,False
+1484,2023-01-04 05:35:16.084014800+00:00,8562.0,Kgal,True,False,False,False
+1485,2023-01-04 13:27:26.082000700+00:00,8562.0,Kgal,True,False,False,False
+1486,2023-01-04 21:19:36.077011100+00:00,8562.0,Kgal,True,False,False,False
+1487,2023-01-05 05:11:41.085006700+00:00,8562.0,Kgal,True,False,False,False
+1488,2023-01-05 13:03:56.081008900+00:00,8562.0,Kgal,True,False,False,False
+1489,2023-01-05 20:56:01.073013300+00:00,8562.0,Kgal,True,False,False,False
+1490,2023-01-06 04:48:11.083007800+00:00,8562.0,Kgal,True,False,False,False
+1491,2023-01-06 12:40:16.073013300+00:00,8562.0,Kgal,True,False,False,False
+1492,2023-01-06 20:32:21.069000200+00:00,8562.0,Kgal,True,False,False,False
+1493,2023-01-07 04:24:26.087005600+00:00,8562.0,Kgal,True,False,False,False
+1494,2023-01-07 12:16:06.071014400+00:00,8562.0,Kgal,True,False,False,False
+1495,2023-01-07 20:08:06.086013700+00:00,8562.0,Kgal,True,False,False,False
+1496,2023-01-08 04:00:01.071014400+00:00,8562.0,Kgal,True,False,False,False
+1497,2023-01-08 11:52:06.083007800+00:00,8562.0,Kgal,True,False,False,False
+1498,2023-01-08 19:44:01.089004500+00:00,8562.0,Kgal,True,False,False,False
+1499,2023-01-09 03:36:16.074005100+00:00,8562.0,Kgal,True,False,False,False
+1500,2023-01-09 11:28:06.073013300+00:00,8562.0,Kgal,True,False,False,False
+1501,2023-01-09 19:20:26.079010+00:00,8562.0,Kgal,True,False,False,False
+1502,2023-01-10 03:12:11.075012200+00:00,8562.0,Kgal,True,False,False,False
+1503,2023-01-10 11:04:06.092010400+00:00,8562.0,Kgal,True,False,False,False
+1504,2023-01-10 18:56:01.093002300+00:00,8562.0,Kgal,True,False,False,False
+1505,2023-01-11 02:48:11.071014400+00:00,8562.0,Kgal,True,False,False,False
+1506,2023-01-11 10:40:01.070007300+00:00,8562.0,Kgal,True,False,False,False
+1507,2023-01-11 18:31:41.094009300+00:00,8562.0,Kgal,True,False,False,False
+1508,2023-01-12 02:23:46.085006700+00:00,8562.0,Kgal,True,False,False,False
+1509,2023-01-12 10:15:46.075012200+00:00,8562.0,Kgal,True,False,False,False
+1510,2023-01-12 18:07:46.075012200+00:00,8562.0,Kgal,True,False,False,False
+1511,2023-01-13 01:59:51.073013300+00:00,8562.0,Kgal,True,False,False,False
+1512,2023-01-13 09:51:41.080001800+00:00,8562.0,Kgal,True,False,False,False
+1513,2023-01-13 17:43:36.081008900+00:00,8562.0,Kgal,True,False,False,False
+1514,2023-01-14 01:35:46.092010400+00:00,8562.0,Kgal,True,False,False,False
+1515,2023-01-14 09:28:06.075012200+00:00,8562.0,Kgal,True,False,False,False
+1516,2023-01-14 17:20:06.092010400+00:00,8562.0,Kgal,True,False,False,False
+1517,2023-01-15 01:11:41.095001200+00:00,8562.0,Kgal,True,False,False,False
+1518,2023-01-15 03:24:10.034011800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1519,2023-01-15 03:24:11.083007800+00:00,8562.0,Kgal,True,False,False,False
+1520,2023-01-15 05:36:25.043014500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1521,2023-01-15 05:36:26.091003400+00:00,8562.0,Kgal,True,False,False,False
+1522,2023-01-15 13:28:31.071014400+00:00,8562.0,Kgal,True,False,False,False
+1523,2023-01-15 21:20:36.077011100+00:00,8562.0,Kgal,True,False,False,False
+1524,2023-01-16 05:12:46.081008900+00:00,8562.0,Kgal,True,False,False,False
+1525,2023-01-16 13:04:41.075012200+00:00,8562.0,Kgal,True,False,False,False
+1526,2023-01-16 19:49:15.039001400+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1527,2023-01-16 19:50:56.089004500+00:00,8562.0,Kgal,True,False,False,False
+1528,2023-01-17 03:42:56.077011100+00:00,8562.0,Kgal,True,False,False,False
+1529,2023-01-17 05:15:10.057006800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1530,2023-01-17 05:18:46.087005600+00:00,8562.0,Kgal,True,False,False,False
+1531,2023-01-17 13:11:06.072006200+00:00,8562.0,Kgal,True,False,False,False
+1532,2023-01-17 21:03:21.088012600+00:00,8562.0,Kgal,True,False,False,False
+1533,2023-01-18 04:55:21.093002300+00:00,8562.0,Kgal,True,False,False,False
+1534,2023-01-18 12:47:26.094009300+00:00,8562.0,Kgal,True,False,False,False
+1535,2023-01-18 20:39:36.074005100+00:00,8562.0,Kgal,True,False,False,False
+1536,2023-01-19 04:31:41.070007300+00:00,8562.0,Kgal,True,False,False,False
+1537,2023-01-19 05:01:30.179000800+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1538,2023-01-19 05:06:32.076004+00:00,8562.0,Kgal,True,False,False,False
+1539,2023-01-19 05:15:41.049011200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1540,2023-01-19 05:17:11.087005600+00:00,8562.0,Kgal,True,False,False,False
+1541,2023-01-19 05:17:47.023010200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1542,2023-01-19 05:17:52.095001200+00:00,8562.0,Kgal,True,False,False,False
+1543,2023-01-19 05:24:00.105010900+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1544,2023-01-19 05:27:56.091003400+00:00,8562.0,Kgal,True,False,False,False
+1545,2023-01-19 13:23:37.088012600+00:00,8562.0,Kgal,True,False,False,False
+1546,2023-01-19 21:15:32.081008900+00:00,8562.0,Kgal,True,False,False,False
+1547,2023-01-20 05:07:37.069000200+00:00,8562.0,Kgal,True,False,False,False
+1548,2023-01-20 12:59:37.090011500+00:00,8562.0,Kgal,True,False,False,False
+1549,2023-01-20 20:51:42.084014800+00:00,8562.0,Kgal,True,False,False,False
+1550,2023-01-21 04:43:57.085006700+00:00,8562.0,Kgal,True,False,False,False
+1551,2023-01-21 12:35:47.089004500+00:00,8562.0,Kgal,True,False,False,False
+1552,2023-01-21 20:27:47.085006700+00:00,8562.0,Kgal,True,False,False,False
+1553,2023-01-22 04:19:37.088012600+00:00,8562.0,Kgal,True,False,False,False
+1554,2023-01-22 12:11:57.082000700+00:00,8562.0,Kgal,True,False,False,False
+1555,2023-01-22 20:03:57.092010400+00:00,8562.0,Kgal,True,False,False,False
+1556,2023-01-23 03:55:57.081008900+00:00,8562.0,Kgal,True,False,False,False
+1557,2023-01-23 11:47:52.075012200+00:00,8562.0,Kgal,True,False,False,False
+1558,2023-01-23 19:40:07.081008900+00:00,8562.0,Kgal,True,False,False,False
+1559,2023-01-24 03:32:02.080001800+00:00,8562.0,Kgal,True,False,False,False
+1560,2023-01-24 11:24:02.084014800+00:00,8562.0,Kgal,True,False,False,False
+1561,2023-01-24 19:15:57.085006700+00:00,8562.0,Kgal,True,False,False,False
+1562,2023-01-25 03:08:17.078002900+00:00,8562.0,Kgal,True,False,False,False
+1563,2023-01-25 11:02:31.092010400+00:00,8562.0,Kgal,True,False,False,False
+1564,2023-01-25 18:54:41.085006700+00:00,8562.0,Kgal,True,False,False,False
+1565,2023-01-26 02:46:46.095001200+00:00,8562.0,Kgal,True,False,False,False
+1566,2023-01-26 10:38:46.084014800+00:00,8562.0,Kgal,True,False,False,False
+1567,2023-01-26 18:35:03.092010400+00:00,8562.0,Kgal,True,False,False,False
+1568,2023-01-27 02:27:03.072006200+00:00,8562.0,Kgal,True,False,False,False
+1569,2023-01-27 10:18:08.081008900+00:00,8562.0,Kgal,True,False,False,False
+1570,2023-01-27 18:10:03.074005100+00:00,8562.0,Kgal,True,False,False,False
+1571,2023-01-28 02:02:03.074005100+00:00,8562.0,Kgal,True,False,False,False
+1572,2023-01-28 09:54:08.070007300+00:00,8562.0,Kgal,True,False,False,False
+1573,2023-01-28 17:45:58.089004500+00:00,8562.0,Kgal,True,False,False,False
+1574,2023-01-29 01:38:13.078002900+00:00,8562.0,Kgal,True,False,False,False
+1575,2023-01-29 09:29:58.085006700+00:00,8562.0,Kgal,True,False,False,False
+1576,2023-01-29 17:21:48.078002900+00:00,8562.0,Kgal,True,False,False,False
+1577,2023-01-30 01:14:03.083007800+00:00,8562.0,Kgal,True,False,False,False
+1578,2023-01-30 09:06:28.074005100+00:00,8562.0,Kgal,True,False,False,False
+1579,2023-01-30 16:58:13.082000700+00:00,8562.0,Kgal,True,False,False,False
+1580,2023-01-31 00:50:33.085006700+00:00,8562.0,Kgal,True,False,False,False
+1581,2023-01-31 08:42:28.075012200+00:00,8562.0,Kgal,True,False,False,False
+1582,2023-01-31 16:34:23.082000700+00:00,8562.0,Kgal,True,False,False,False
+1583,2023-02-01 00:26:33.075012200+00:00,8562.0,Kgal,True,False,False,False
+1584,2023-02-01 08:18:48.070007300+00:00,8562.0,Kgal,True,False,False,False
+1585,2023-02-01 16:10:43.077011100+00:00,8562.0,Kgal,True,False,False,False
+1586,2023-02-02 00:02:38.095001200+00:00,8562.0,Kgal,True,False,False,False
+1587,2023-02-02 07:54:43.078002900+00:00,8562.0,Kgal,True,False,False,False
+1588,2023-02-02 15:50:41.072006200+00:00,8562.0,Kgal,True,False,False,False
+1589,2023-02-02 23:42:36.076004+00:00,8562.0,Kgal,True,False,False,False
+1590,2023-02-03 07:34:31.086013700+00:00,8562.0,Kgal,True,False,False,False
+1591,2023-02-03 15:26:11.095001200+00:00,8562.0,Kgal,True,False,False,False
+1592,2023-02-03 23:18:31.070007300+00:00,8562.0,Kgal,True,False,False,False
+1593,2023-02-04 07:10:21.096008300+00:00,8562.0,Kgal,True,False,False,False
+1594,2023-02-04 08:50:40.053009+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1595,2023-02-04 08:50:41.071014400+00:00,8562.0,Kgal,True,False,False,False
+1596,2023-02-04 08:51:40.027008+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1597,2023-02-04 08:51:41.224014200+00:00,8562.0,Kgal,True,False,False,False
+1598,2023-02-04 10:06:45.046005200+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1599,2023-02-04 10:06:46.070007300+00:00,8562.0,Kgal,True,False,False,False
+1600,2023-02-04 18:00:21.075012200+00:00,8562.0,Kgal,True,False,False,False
+1601,2023-02-05 01:52:26.084014800+00:00,8562.0,Kgal,True,False,False,False
+1602,2023-02-05 09:44:51.091003400+00:00,8562.0,Kgal,True,False,False,False
+1603,2023-02-05 17:36:51.076004+00:00,8562.0,Kgal,True,False,False,False
+1604,2023-02-06 01:29:16.076004+00:00,8562.0,Kgal,True,False,False,False
+1605,2023-02-06 09:21:06.077011100+00:00,8562.0,Kgal,True,False,False,False
+1606,2023-02-06 17:12:56.082000700+00:00,8562.0,Kgal,True,False,False,False
+1607,2023-02-07 01:04:41.083007800+00:00,8562.0,Kgal,True,False,False,False
+1608,2023-02-07 08:56:41.080001800+00:00,8562.0,Kgal,True,False,False,False
+1609,2023-02-07 16:48:46.086013700+00:00,8562.0,Kgal,True,False,False,False
+1610,2023-02-08 00:40:41.085006700+00:00,8562.0,Kgal,True,False,False,False
+1611,2023-02-08 08:32:46.083007800+00:00,8562.0,Kgal,True,False,False,False
+1612,2023-02-08 16:24:51.089004500+00:00,8562.0,Kgal,True,False,False,False
+1613,2023-02-09 00:16:46.077011100+00:00,8562.0,Kgal,True,False,False,False
+1614,2023-02-09 08:09:16.078002900+00:00,8562.0,Kgal,True,False,False,False
+1615,2023-02-09 11:23:45.037002500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1616,2023-02-09 11:24:04.145004200+00:00,8562.0,Kgal,True,False,False,False
+1617,2023-02-09 11:24:20.037002500+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1618,2023-02-09 11:24:23.161010700+00:00,8562.0,Kgal,True,False,False,False
+1619,2023-02-09 19:16:46.085006700+00:00,8562.0,Kgal,True,False,False,False
+1620,2023-02-10 03:08:51.082000700+00:00,8562.0,Kgal,True,False,False,False
+1621,2023-02-10 11:00:56.077011100+00:00,8562.0,Kgal,True,False,False,False
+1622,2023-02-10 18:53:16.099014200+00:00,8562.0,Kgal,True,False,False,False
+1623,2023-02-11 02:45:16.092010400+00:00,8562.0,Kgal,True,False,False,False
+1624,2023-02-11 10:37:06.088012600+00:00,8562.0,Kgal,True,False,False,False
+1625,2023-02-11 18:29:26.093002300+00:00,8562.0,Kgal,True,False,False,False
+1626,2023-02-12 02:21:31.094009300+00:00,8562.0,Kgal,True,False,False,False
+1627,2023-02-12 10:13:51.094009300+00:00,8562.0,Kgal,True,False,False,False
+1628,2023-02-12 18:05:46.075012200+00:00,8562.0,Kgal,True,False,False,False
+1629,2023-02-13 01:58:06.071014400+00:00,8562.0,Kgal,True,False,False,False
+1630,2023-02-13 09:50:21.084014800+00:00,8562.0,Kgal,True,False,False,False
+1631,2023-02-13 17:42:06.085006700+00:00,8562.0,Kgal,True,False,False,False
+1632,2023-02-14 01:33:56.086013700+00:00,8562.0,Kgal,True,False,False,False
+1633,2023-02-14 09:25:56.087005600+00:00,8562.0,Kgal,True,False,False,False
+1634,2023-02-14 17:18:16.086013700+00:00,8562.0,Kgal,True,False,False,False
+1635,2023-02-15 01:10:21.078002900+00:00,8562.0,Kgal,True,False,False,False
+1636,2023-02-15 09:02:21.085006700+00:00,8562.0,Kgal,True,False,False,False
+1637,2023-02-15 16:54:11.095001200+00:00,8562.0,Kgal,True,False,False,False
+1638,2023-02-16 00:46:01.081008900+00:00,8562.0,Kgal,True,False,False,False
+1639,2023-02-16 08:38:06.081008900+00:00,8562.0,Kgal,True,False,False,False
+1640,2023-02-16 16:30:21.086013700+00:00,8562.0,Kgal,True,False,False,False
+1641,2023-02-17 00:22:21.096008300+00:00,8562.0,Kgal,True,False,False,False
+1642,2023-02-17 08:14:11.082000700+00:00,8562.0,Kgal,True,False,False,False
+1643,2023-02-17 16:06:16.083007800+00:00,8562.0,Kgal,True,False,False,False
+1644,2023-02-17 23:58:31.086013700+00:00,8562.0,Kgal,True,False,False,False
+1645,2023-02-18 07:50:31.086013700+00:00,8562.0,Kgal,True,False,False,False
+1646,2023-02-18 15:42:31.089004500+00:00,8562.0,Kgal,True,False,False,False
+1647,2023-02-18 23:34:51.083007800+00:00,8562.0,Kgal,True,False,False,False
+1648,2023-02-19 07:26:56.077011100+00:00,8562.0,Kgal,True,False,False,False
+1649,2023-02-19 15:18:56.090011500+00:00,8562.0,Kgal,True,False,False,False
+1650,2023-02-19 23:11:16.092010400+00:00,8562.0,Kgal,True,False,False,False
+1651,2023-02-20 07:03:06.090011500+00:00,8562.0,Kgal,True,False,False,False
+1652,2023-02-20 14:55:21.095001200+00:00,8562.0,Kgal,True,False,False,False
+1653,2023-02-20 22:47:26.073013300+00:00,8562.0,Kgal,True,False,False,False
+1654,2023-02-21 03:13:45.041000300+00:00,"{'Name': 'Calc Failed', 'Value': 249, 'IsSystem': True}",,False,False,False,False
+1655,2023-02-21 03:13:46.122009200+00:00,8562.0,Kgal,True,False,False,False
+1656,2023-02-21 11:05:46.084014800+00:00,8562.0,Kgal,True,False,False,False
+1657,2023-02-21 18:57:31.087005600+00:00,8562.0,Kgal,True,False,False,False
+1658,2023-02-22 02:49:21.087005600+00:00,8562.0,Kgal,True,False,False,False
+1659,2023-02-22 10:41:31.089004500+00:00,8562.0,Kgal,True,False,False,False
+1660,2023-02-22 18:33:31.071014400+00:00,8562.0,Kgal,True,False,False,False
+1661,2023-02-23 02:25:16.085006700+00:00,8562.0,Kgal,True,False,False,False
+1662,2023-02-23 10:17:21.093002300+00:00,8562.0,Kgal,True,False,False,False
+1663,2023-02-23 18:09:16.072006200+00:00,8562.0,Kgal,True,False,False,False
+1664,2023-02-24 02:01:11.084014800+00:00,8562.0,Kgal,True,False,False,False
+1665,2023-02-24 09:53:16.094009300+00:00,8562.0,Kgal,True,False,False,False
+1666,2023-02-24 17:45:26.087005600+00:00,8562.0,Kgal,True,False,False,False
+1667,2023-02-25 01:37:46.081008900+00:00,8562.0,Kgal,True,False,False,False
+1668,2023-02-25 09:29:56.090011500+00:00,8562.0,Kgal,True,False,False,False
+1669,2023-02-25 17:21:56.085006700+00:00,8562.0,Kgal,True,False,False,False
+1670,2023-02-26 01:14:01.078002900+00:00,8562.0,Kgal,True,False,False,False
+1671,2023-02-26 09:06:01.092010400+00:00,8562.0,Kgal,True,False,False,False
+1672,2023-02-26 16:58:01.082000700+00:00,8562.0,Kgal,True,False,False,False
+1673,2023-02-27 00:49:46.090011500+00:00,8562.0,Kgal,True,False,False,False
+1674,2023-02-27 08:41:56.084014800+00:00,8562.0,Kgal,True,False,False,False
+1675,2023-02-27 16:33:56.089004500+00:00,8562.0,Kgal,True,False,False,False
+1676,2023-02-28 00:25:56.093002300+00:00,8562.0,Kgal,True,False,False,False
+1677,2023-02-28 08:18:11.069000200+00:00,8562.0,Kgal,True,False,False,False
+1678,2023-02-28 16:10:11.081008900+00:00,8562.0,Kgal,True,False,False,False
+1679,2023-03-01 00:02:06.084014800+00:00,8562.0,Kgal,True,False,False,False
+1680,2023-03-01 07:54:06.070007300+00:00,8562.0,Kgal,True,False,False,False
+1681,2023-03-01 15:46:21.072006200+00:00,8562.0,Kgal,True,False,False,False
+1682,2023-03-01 23:38:06.088012600+00:00,8562.0,Kgal,True,False,False,False
+1683,2023-03-02 07:30:16.088012600+00:00,8562.0,Kgal,True,False,False,False
+1684,2023-03-02 15:22:26.085006700+00:00,8562.0,Kgal,True,False,False,False
+1685,2023-03-02 23:14:31.073013300+00:00,8562.0,Kgal,True,False,False,False
+1686,2023-03-03 07:06:26.083007800+00:00,8562.0,Kgal,True,False,False,False
+1687,2023-03-03 14:58:41.094009300+00:00,8562.0,Kgal,True,False,False,False
+1688,2023-03-03 22:50:26.076004+00:00,8562.0,Kgal,True,False,False,False
+1689,2023-03-04 06:42:11.090011500+00:00,8562.0,Kgal,True,False,False,False
+1690,2023-03-04 14:34:11.079010+00:00,8562.0,Kgal,True,False,False,False
+1691,2023-03-04 22:26:11.069000200+00:00,8562.0,Kgal,True,False,False,False
+1692,2023-03-05 06:18:01.091003400+00:00,8562.0,Kgal,True,False,False,False
+1693,2023-03-05 14:10:11.091003400+00:00,8562.0,Kgal,True,False,False,False
+1694,2023-03-05 22:01:56.086013700+00:00,8562.0,Kgal,True,False,False,False
+1695,2023-03-06 05:53:56.089004500+00:00,8562.0,Kgal,True,False,False,False
+1696,2023-03-06 13:46:06.133010800+00:00,8562.0,Kgal,True,False,False,False
+1697,2023-03-06 21:38:26.084014800+00:00,8562.0,Kgal,True,False,False,False
+1698,2023-03-07 05:30:36.096008300+00:00,8562.0,Kgal,True,False,False,False
+1699,2023-03-07 13:22:41.092010400+00:00,8562.0,Kgal,True,False,False,False
+1700,2023-03-07 21:15:01.084014800+00:00,8562.0,Kgal,True,False,False,False
+1701,2023-03-08 05:07:01.083007800+00:00,8562.0,Kgal,True,False,False,False
+1702,2023-03-08 12:59:06.083007800+00:00,8562.0,Kgal,True,False,False,False
+1703,2023-03-08 20:51:16.076004+00:00,8562.0,Kgal,True,False,False,False
+1704,2023-03-09 04:43:06.092010400+00:00,8562.0,Kgal,True,False,False,False
+1705,2023-03-09 12:35:16.071014400+00:00,8562.0,Kgal,True,False,False,False
+1706,2023-03-09 20:27:26.075012200+00:00,8562.0,Kgal,True,False,False,False
+1707,2023-03-10 04:19:01.093002300+00:00,8562.0,Kgal,True,False,False,False
+1708,2023-03-10 12:11:16.078002900+00:00,8562.0,Kgal,True,False,False,False
+1709,2023-03-10 20:03:36.076004+00:00,8562.0,Kgal,True,False,False,False
+1710,2023-03-11 03:55:36.095001200+00:00,8562.0,Kgal,True,False,False,False
+1711,2023-03-11 11:47:21.071014400+00:00,8562.0,Kgal,True,False,False,False
+1712,2023-03-11 19:38:56.081008900+00:00,8562.0,Kgal,True,False,False,False
+1713,2023-03-12 03:30:36.090011500+00:00,8562.0,Kgal,True,False,False,False
+1714,2023-03-12 11:22:26.093002300+00:00,8562.0,Kgal,True,False,False,False
+1715,2023-03-12 19:14:31.081008900+00:00,8562.0,Kgal,True,False,False,False
+1716,2023-03-13 03:06:16.092010400+00:00,8562.0,Kgal,True,False,False,False
+1717,2023-03-13 10:58:21.074005100+00:00,8562.0,Kgal,True,False,False,False
+1718,2023-03-13 18:50:21.091003400+00:00,8562.0,Kgal,True,False,False,False
+1719,2023-03-14 02:42:01.073013300+00:00,8562.0,Kgal,True,False,False,False
+1720,2023-03-14 10:34:31.084014800+00:00,8562.0,Kgal,True,False,False,False
+1721,2023-03-14 18:26:36.074005100+00:00,8562.0,Kgal,True,False,False,False
+1722,2023-03-15 02:18:46.074005100+00:00,8562.0,Kgal,True,False,False,False
+1723,2023-03-15 10:10:36.073013300+00:00,8562.0,Kgal,True,False,False,False
+1724,2023-03-15 18:02:41.084014800+00:00,8562.0,Kgal,True,False,False,False
+1725,2023-03-16 01:54:26.091003400+00:00,8562.0,Kgal,True,False,False,False
+1726,2023-03-16 09:46:21.074005100+00:00,8562.0,Kgal,True,False,False,False
+1727,2023-03-16 17:38:21.096008300+00:00,8562.0,Kgal,True,False,False,False
+1728,2023-03-17 01:30:31.083007800+00:00,8562.0,Kgal,True,False,False,False
+1729,2023-03-17 09:22:21.081008900+00:00,8562.0,Kgal,True,False,False,False
+1730,2023-03-17 17:13:56.074005100+00:00,8562.0,Kgal,True,False,False,False
+1731,2023-03-18 01:05:56.080001800+00:00,8562.0,Kgal,True,False,False,False
+1732,2023-03-18 08:57:51.090011500+00:00,8562.0,Kgal,True,False,False,False
+1733,2023-03-18 16:49:31.092010400+00:00,8562.0,Kgal,True,False,False,False
+1734,2023-03-19 00:41:21.085006700+00:00,8562.0,Kgal,True,False,False,False
+1735,2023-03-19 08:33:31.081008900+00:00,8562.0,Kgal,True,False,False,False
+1736,2023-03-19 16:25:26.078002900+00:00,8562.0,Kgal,True,False,False,False
