@@ -4,7 +4,8 @@ import numpy as nps
 import requests
 import json
 import pandas as pd
-
+from datetime import datetime
+from datetime import date
 
 def main():
     #First request
@@ -47,13 +48,16 @@ def main():
         for item2 in req2.json()['Items']:
             if item2['Name'] in meters:
                 
-
-                recorded = requests.get('https://osi.ipf.msu.edu/piwebapi/streamsets/{}/recorded?StartTime=*-7d&EndTime=*-0d&MaxCount=50000'.format(item2['WebId']))
-                    
+                
+                
+                
 
                 with open('meters_json/{}_{}.json'.format("_".join(item['Name'].replace('/', '').split(' ')).lower(), item2['Name']), 'w') as outfile:
                     try:
+                        dt_object = parse_datetime_with_variable_fraction(recorded.json()['Items'][0]['Items'][-1]['Timestamp'], format_str)
+                        
                         existing_data = json.load(outfile)
+                        recorded = requests.get('https://osi.ipf.msu.edu/piwebapi/streamsets/{}/recorded?StartTime=*-{}d&EndTime=*-0d&MaxCount=50000'.format(item2['WebId'], (date.today() - dt_object).days))
                         existing_data.update(recorded)
                         
                         json.dump(existing_data , outfile)
