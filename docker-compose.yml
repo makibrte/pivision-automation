@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  filebrowser:
+    image: filebrowser/filebrowser
+    user: "${UID}:${GID}"
+    ports:
+      - 443:8080
+    volumes:
+      - /home/mateja/Documents/QMRA/repos/pivision-automation:/data
+      - /home/mateja/Documents/QMRA/repos/pivision-automation:/config
+    environment:
+      - FB_BASEURL=/filebrowser
+    restart: always

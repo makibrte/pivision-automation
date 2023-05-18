@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Water Meter Data Dashboard</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        /* CSS Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+        }
+        /* Navbar */
+        .navbar {
+            background-color: #333;
+            padding: 10px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .navbar a, .navbar span {
+            color: #fff;
+            text-decoration: none;
+            margin-left: 10px;
+        }
+        /* Center content */
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: calc(100vh - 60px);
+        }
+        /* Buttons */
+        button {
+            font-size: 24px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .date {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        
+        .content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <span>Hello, {{ request.user.username }}</span>
+        <a href="{% url 'logout' %}">Logout</a>
+    </div>
+    <div class="center">
+        <div class="content">
+        <div class="date">Last Updated: {{ last_date }}</div><br>
+        <button id="myButton">Update Data</button>
+    </div>
+    </div>
+    
+    <script>
+        $(document).ready(function() {
+            $('#myButton').on('click', function() {
+                $.ajax({
+                    url: '{% url "button_clicked" %}',
+                    method: 'GET',
+                    success: function(response) {
+                        alert(response.message);
+                    },
+                    error: function() {
+                        alert('Error!');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
