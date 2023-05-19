@@ -5,7 +5,7 @@ library(padr)
 library(data.table)
 library(zoo)
 # library(timetk)
-data_padded <- pad(data, interval = "min", break_above = 2000000)
+data_padded <- pad(data, interval = "min", break_above = 10)
 conflicts_prefer(dplyr::filter)
 conflicts_prefer(dplyr::lag)
 sample_loc_lookup <- read.csv("helper_data/bldg_to_sampleloc.csv")
@@ -30,7 +30,7 @@ for (s in sample_locs){
             arrange(timestamp) %>%
             filter(!duplicated(volume)) %>% 
             select(timestamp, volume) %>% 
-            pad(interval = "min") %>%
+            pad(interval = "min",  break_above = 10) %>%
             mutate(volume = 1000 * na.approx(volume)) %>%      # Name building
             mutate(date = date(timestamp)) %>% 
             group_by(date) %>% 
@@ -43,7 +43,7 @@ for (s in sample_locs){
             arrange(timestamp) %>%
             filter(!duplicated(volume)) %>% 
             select(timestamp, volume) %>% 
-            pad(interval = "min") %>%
+            pad(interval = "min",  break_above = 10) %>%
             mutate(volume = 1000 * na.approx(volume)) %>%      # Name building
             mutate(date = date(timestamp)) %>% 
             group_by(date) %>% 
@@ -65,7 +65,7 @@ for (s in sample_locs){
           mutate(d_volume = volume - lag(volume, default = volume[1])) %>% 
           filter(d_volume == 1) %>%  # Each meter reading should increase the previous reading by 1 (i.e. 1000 gallons between readings)
           select(timestamp, volume) %>% 
-          pad(interval = "min") %>%
+          pad(interval = "min",  break_above = 10) %>%
           mutate(volume = 1000 * na.approx(volume)) %>%      # Name building
           select(timestamp, volume) %>% 
           mutate(date = date(timestamp)) %>% 
@@ -89,7 +89,7 @@ for (s in sample_locs){
             mutate(d_volume = volume - lag(volume, default = volume[1])) %>% 
             filter(d_volume == 1) %>%  # Each meter reading should increase the previous reading by 1 (i.e. 1000 gallons between readings)
             select(timestamp, volume) %>% 
-            pad(interval = "min") %>%
+            pad(interval = "min", break_above = 10) %>%
             mutate(volume = 1000 * na.approx(volume)) %>%      # Name building
             select(timestamp, volume) %>% 
             mutate(date = date(timestamp)) %>% 
@@ -105,7 +105,7 @@ for (s in sample_locs){
             mutate(d_volume = volume - lag(volume, default = volume[1])) %>% 
             filter(d_volume == 1) %>%  # Each meter reading should increase the previous reading by 1 (i.e. 1000 gallons between readings)
             select(timestamp, volume) %>% 
-            pad(interval = "min") %>%
+            pad(interval = "min", break_above = 10) %>%
             mutate(volume = 1000 * na.approx(volume)) %>%      # Name building
             select(timestamp, volume) %>% 
             mutate(date = date(timestamp)) %>% 
@@ -128,7 +128,7 @@ for (s in sample_locs){
           mutate(d_volume = volume - lag(volume, default = volume[1])) %>% 
           filter(d_volume == 1) %>%  # Each meter reading should increase the previous reading by 1 (i.e. 1000 gallons between readings)
           select(timestamp, volume) %>% 
-          pad(interval = "min") %>%
+          pad(interval = "min", break_above = 10) %>%
           mutate(volume = 1000 * na.approx(volume)) %>%      # Name building
           select(timestamp, volume) %>% 
           mutate(date = date(timestamp)) %>% 
