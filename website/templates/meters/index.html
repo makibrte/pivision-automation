@@ -71,15 +71,18 @@
     <div class="center">
         <div class="content">
         <div class="date">Last Updated: {{ last_date }}</div><br>
-        <button id="myButton">Update Data</button>
+        <button id="updateData">Update Data</button>
+        <button id = "initData">Initial Download</button>
     </div>
     </div>
     
+    
+    
     <script>
         $(document).ready(function() {
-            $('#myButton').on('click', function() {
+            $('#updateData').on('click', function() {
                 $.ajax({
-                    url: '{% url "button_clicked" %}',
+                    url: '{% url "run_weekly_script" %}',
                     method: 'GET',
                     success: function(response) {
                         alert(response.message);
@@ -91,5 +94,23 @@
             });
         });
     </script>
+    <script>
+        $(document).ready(function() {
+            $('#initData').on('click', function() {
+                $.ajax({
+                    url: '{% url "run_init_script" %}',
+                    method: 'GET',
+                    success: function(response) {
+                        alert(response.message);
+                    },
+                    error: function() {
+                        alert('Error!');
+                    }
+                });
+            });
+        });
+    </script>
+    
+    
 </body>
 </html>
