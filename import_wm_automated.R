@@ -5,10 +5,11 @@ library(padr)
 library(data.table)
 library(zoo)
 # library(timetk)
-data_padded <- pad(data, interval = "min", break_above = 10)
+#data_padded <- pad(data, interval = "min", break_above = 10)
 conflicts_prefer(dplyr::filter)
 conflicts_prefer(dplyr::lag)
-sample_loc_lookup <- read.csv("helper_data/bldg_to_sampleloc.csv")
+#CHNAGE THE PATH WHEN EXPORTED TO SERVER
+sample_loc_lookup <- read.csv("C:/Users/Mateja Milicevic/Documents/QMRA/repos/pivision-automation/bldg_to_sampleloc.csv")
 
 sample_locs <- unique(sample_loc_lookup$sample_loc_alpha)
 
