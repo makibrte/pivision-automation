@@ -3,6 +3,7 @@ import os
 import numpy as np
 import requests
 import json
+import subprocess
 import pandas as pd
 from datetime import date
 from datetime import datetime
@@ -64,6 +65,15 @@ def main(tests = True, start=date(2020,1,1)):
                     json.dump(content , outfile)
     
     json_to_csv()
+    
+    #RUN THE R-SCRIPT
+    dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
+    r_script_path = os.path.join(dir_path, 'import_wm_automated.R') # build the full path to the R script
+
+    command = "Rscript"
+    path2script = r_script_path
+
+    subprocess.call([command, path2script, "TRUE"]) 
             
 
 

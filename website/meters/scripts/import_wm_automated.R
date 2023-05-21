@@ -5,15 +5,19 @@ library(padr)
 library(data.table)
 library(zoo)
 # library(timetk)
-#data_padded <- pad(data, interval = "min", break_above = 10)
+args <- commandArgs(trailingOnly = TRUE)
+init_run <- args[1]
 conflicts_prefer(dplyr::filter)
 conflicts_prefer(dplyr::lag)
 #CHNAGE THE PATH WHEN EXPORTED TO SERVER
-sample_loc_lookup <- read.csv("C:/Users/Mateja Milicevic/Documents/QMRA/repos/pivision-automation/bldg_to_sampleloc.csv")
+#script_path <- Sys.getenv("R_SCRIPT")
+#script_dir <- dirname(script_path)
+#setwd(script_dir)
+sample_loc_lookup <- read.csv("meters/data/helper_data/bldg_to_sampleloc.csv")
 
 sample_locs <- unique(sample_loc_lookup$sample_loc_alpha)
 
-
+csv_path = "meters/data/temp_data_csv/"
 for (s in sample_locs){
   bldg_locs <- sample_loc_lookup$building[sample_loc_lookup$sample_loc_alpha %in% s]
   
@@ -24,7 +28,7 @@ for (s in sample_locs){
       if (length(bldg_locs) > 1){
         
         if (b == bldg_locs[1]){
-          x <- fread(paste0("meters_csv/", sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
+          x <- fread(paste0(csv_path, sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
             filter(Good == "TRUE") %>% 
             mutate(timestamp = round_date(Timestamp, "min"), # Rounds to minute - second resolution not necessary
                    volume = as.numeric(Value)) %>% 
@@ -37,7 +41,7 @@ for (s in sample_locs){
             group_by(date) %>% 
             summarise(daily_vol = max(volume) - min(volume))
         } else {
-          y <- fread(paste0("meters_csv/", sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
+          y <- fread(paste0(csv_path, sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
             filter(Good == "TRUE") %>% 
             mutate(timestamp = round_date(Timestamp, "min"), # Rounds to minute - second resolution not necessary
                    volume = as.numeric(Value)) %>% 
@@ -57,7 +61,7 @@ for (s in sample_locs){
           rm(y)
         }
       } else {
-        x <- fread(paste0("meters_csv/", sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
+        x <- fread(paste0(csv_path, sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
           filter(Good == "TRUE") %>% 
           mutate(timestamp = round_date(Timestamp, "min"), # Rounds to minute - second resolution not necessary
                  volume = as.numeric(Value)) %>% 
@@ -81,7 +85,7 @@ for (s in sample_locs){
       if (length(bldg_locs) > 1){
         
         if (b == bldg_locs[1]){
-          x <- fread(paste0("meters_csv/", sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
+          x <- fread(paste0(csv_path, sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
             filter(Good == "TRUE") %>% 
             mutate(timestamp = round_date(Timestamp, "min"), # Rounds to minute - second resolution not necessary
                    volume = as.numeric(Value)) %>% 
@@ -97,7 +101,7 @@ for (s in sample_locs){
             group_by(date) %>% 
             summarise(daily_vol = max(volume) - min(volume))
         } else {
-          y <- fread(paste0("meters_csv/", sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
+          y <- fread(paste0(csv_path, sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
             filter(Good == "TRUE") %>% 
             mutate(timestamp = round_date(Timestamp, "min"), # Rounds to minute - second resolution not necessary
                    volume = as.numeric(Value)) %>% 
@@ -120,7 +124,7 @@ for (s in sample_locs){
           rm(y)
         }
       } else {
-        x <- fread(paste0("meters_csv/", sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
+        x <- fread(paste0(csv_path, sample_loc_lookup$filename[sample_loc_lookup$building %in% b])) %>% 
           filter(Good == "TRUE") %>% 
           mutate(timestamp = round_date(Timestamp, "min"), # Rounds to minute - second resolution not necessary
                  volume = as.numeric(Value)) %>% 
@@ -160,5 +164,8 @@ rm(sample_locs,
    msu_PL, msu_PU, msu_MS, msu_AH, msu_BA, 
    msu_BH, msu_DC, msu_EH, msu_HU, msu_WY, 
    msu_HL, msu_HO, msu_MC, msu_WI, msu_WO)
-
-write.csv(volume_daily, "test.csv", row.names = FALSE)
+if(args == FALSE){
+  write.csv(volume_daily, "meters/data/temp.csv", row.names = FALSE)
+}else{
+  write.csv(volume_daily, "meters/data/flow_meters.csv", row.names = FALSE)
+}

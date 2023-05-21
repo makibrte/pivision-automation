@@ -1,0 +1,3 @@
+website/meters/temp_data_json/
+website/meters/temp_data_csv/
+*.csv
