@@ -29,7 +29,7 @@ def main(tests = True, start=date(2020,1,1)):
     if not os.path.isdir('temp_data_csv'):
         os.makedirs('temp_data_csv')
     #ITERATES OVER ALL THE BUILDINGS AND ONLY MAKES DATA REQUEST FOR THOSE INSIDE BLDG_TO_SAMPLELOC
-    """
+    
     start_date = start
 
     format_str = "%Y-%m-%dT%H:%M:%S.%fZ"
@@ -75,7 +75,7 @@ def main(tests = True, start=date(2020,1,1)):
     
     #RUN THE R-SCRIPT
     dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
-    r_script_path = os.path.join(dir_path, 'import_wm_automated.R') # build the full path to the R script
+    r_script_path = os.path.join(dir_path, 'import_wm.R') # build the full path to the R script
 
     command = "Rscript"
     path2script = r_script_path
@@ -84,7 +84,7 @@ def main(tests = True, start=date(2020,1,1)):
     
     #REMOVES THE JSON FILES CREATED
     remove_json_temp()
-    """
+    
             
 
 
