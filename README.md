@@ -3,7 +3,8 @@
 This script is used to download Water Meter Data from PiVision API and convert it into am appropriate format. 
 ## Installation
 
--Clone the repository
+-Clone the repository 
+
 `git clone https://github.com/makibrte/pivision-automation`
 -Install all python dependencies 
 `pip install -r requirements.txt`
