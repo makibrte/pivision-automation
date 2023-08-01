@@ -6,15 +6,22 @@ This script is used to download Water Meter Data from PiVision API and convert i
 -Clone the repository 
 
 `git clone https://github.com/makibrte/pivision-automation`
+
 -Install all python dependencies 
+
 `pip install -r requirements.txt`
+
 -Install R Packages by running the following in R-Studio 
+
 `install.packages(c("tidyverse", "conflicted", "padr", "zoo"))`
+
 *This is assuming you have installed R and R-Studio 
 
 ## Usage
 When using the script for the first time, run the following inside terminal:
+
 `python init_data.py`
+
 This will download all the water meter data from start of 2020 until the present day.
 
 ### Updating the data(under development)
