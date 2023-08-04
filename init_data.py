@@ -18,6 +18,10 @@ parser.add_argument('--start', type=date, default=date(2020,1,1), help='Determin
 
 def main(tests = True, start=date(2020,1,1)):
     #INITIAL REQUEST TO LIST ALL BUILDINGS WITH ASSETS ON PIVISION WEBSITE
+    webID_dict = pd.DataFrame({'Name' : [], 
+                                'WebID': []
+                               
+                               })
     req = get_elements()
     buildings = pd.read_csv('bldg_to_sampleloc.csv')
     meters = list(buildings['meter_id'])
@@ -41,11 +45,12 @@ def main(tests = True, start=date(2020,1,1)):
         req2 = get_element(item['WebId'])
         for item2 in req2.json()['Items']:
             if item2['Name'] in meters:
-                
-                content = []
+                webID_dict_temp = pd.DataFrame({'Name' : [item2['Name']],
+                                   'WebID' : [item2['WebId']]})
+                webID_dict = pd.concat([webID_dict, webID_dict_temp], ignore_index=True)
                 
 
-                
+                content = []
                 recorded = get_meterdata(item2, today, start_date)
                 
                     
@@ -58,7 +63,7 @@ def main(tests = True, start=date(2020,1,1)):
                 date_object = dt_object.date()
                 
                 #Makes requests until it gets latest data
-                while(date.today() - date_object).days > 0:
+                while(date.today() - date_object).days > 7:
                     
                     
                     recorded = get_meterdata(item2, today, date_object)
@@ -67,12 +72,14 @@ def main(tests = True, start=date(2020,1,1)):
                     
                     date_object = dt_object.date()
                 
-                with open(filename(item, item2), 'w') as outfile:
+                with open(filename(item, item2).replace('.', '').replace('json', ''), 'w') as outfile:
                     print(outfile)
                     json.dump(content , outfile)
     
     json_to_csv()
     
+    webID_dict.to_csv('webId.csv', index=False)
+
     #RUN THE R-SCRIPT
     dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
     r_script_path = os.path.join(dir_path, 'import_wm.R') # build the full path to the R script
