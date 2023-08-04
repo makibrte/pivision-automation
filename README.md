@@ -1,35 +1,53 @@
-# PiVision-Automation
-
+# Water Flow Meters Data Automation tool
 ## About
-
-A tool used to automate downloading and updating the water flow data from Michigan State University Campus. The main website is built in Django, while the scripts for fetching and processing data are written in Python(fetching) and R(processing). The result of these scripts are stored in a csv file that can be directly downloaded from the website. 
-
+This script is used to download Water Meter Data from PiVision API and convert it into am appropriate format. 
 ## Installation
-### Getting the project files
 
-Simply, clone the repository in directory you want by running:
-```bash{cmd}
-git clone https://github.com/makibrte/pivision-automation
-```
+-Clone the repository 
 
+`git clone https://github.com/makibrte/pivision-automation`
 
-## Running the Django Website(Not Recommended)
+-Install all python dependencies 
 
-One way to run this app is by hosting the Django project yourself. It is not recommended as there are a lot of libraries that need to be installed both for Python and R. 
+`pip install -r requirements.txt`
 
-#### Installation Steps
-- Install Python packages when inside root folder
-```bash {cmd}
-pip install -r requirements.txt
-```
-- If you have not installed R, install it. Installation depends on OS(In some cases).
-  ### Installing R Packages
-  
-  - ```install.packages(c("tidyverse", "conflicted", "padr", "zoo"))```
+-Install R Packages by running the following in R-Studio 
 
-## Running the Docker Image(Recommended)
+`install.packages(c("tidyverse", "conflicted", "padr", "zoo"))`
 
-Another way to host this tool is by running a Docker image. This documentation assumes that Docker is already installed. You can either create a Docker Image yourself or you can clone the existing Docker Image from Docker website. 
+*This is assuming you have installed R and R-Studio 
 
-### 
+## Usage
+When using the script for the first time, run the following inside terminal:
 
+`python init_data.py`
+
+This will download all the water meter data from start of 2020 until the present day.
+
+### Updating the data(under development)
+Once finished instead of running the long init_data.py script you can run weekly_update.py
+
+## Files
+### temp_data_csv
+
+Stores the downloaded data to be converted. Each meter has its own csv file. Naming convention for files is 
+buildingname_meterID.csv
+
+### .filebrowser.json(depreceated)
+Stores configuration for a FileBrowser server. 
+### Dockerfile(depreceated)
+Docker configuration. 
+### bldg_to_sampleloc.csv
+Stores the names of meters and buildings needed to be downloaded. 
+### helper.py
+Helper functions. API calls, name factoris, date string converter etc...
+### import_wm.R
+R-Script that converts files from temp_data_csv into required format.
+### init_data.py
+Initial download script. Used for when first time cloning the repository. Downloads data from 2020 untill the day you run the script. Automatically calls the import_wm.R script. 
+### requirements.txt
+Needed for python dependencies.
+### tests.py
+Runs tests on download scripts.
+### weekly_update.py(In Progress)
+Updates the data. Works in a similar way as init_data.py 
