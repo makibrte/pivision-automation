@@ -72,22 +72,23 @@ def main(tests = True, start=date(2020,1,1)):
                     
                     date_object = dt_object.date()
                 
-                with open(filename(item, item2).replace('json', ''), 'w') as outfile:
+                with open(f'{filename(item, item2).replace("json", "")}.csv', 'w') as outfile:
                     print(outfile)
-                    json.dump(content , outfile)
+                    df = pd.json_normalize(content)
+                    df.to_csv(outfile, index=False) 
     
     
     #TODO: Improve speed of weekly update
     #webID_dict.to_csv('webId.csv', index=False)
 
     #RUN THE R-SCRIPT
-    dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
-    r_script_path = os.path.join(dir_path, 'import_wm.R') # build the full path to the R script
+    #dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
+    #r_script_path = os.path.join(dir_path, 'import_wm.R') # build the full path to the R script
 
-    command = "Rscript"
-    path2script = r_script_path
+    #command = "Rscript"
+    #path2script = r_script_path
 
-    subprocess.call([command, path2script, "TRUE"]) 
+    #subprocess.call([command, path2script, "TRUE"]) 
     
     #REMOVES THE JSON FILES CREATED
     
