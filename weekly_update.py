@@ -48,20 +48,20 @@ def main():
                         recorded = get_meterdata(item2, date.today(), date_object)
                         cont = recorded.json()['Items'][0]['Items']
                         content += cont
-                        
-                        dt_object = parse_datetime(last_day(recorded.json()), format_str)
-                        if dt_object:
-                            date_object = dt_object.date()
-                            while(date.today() - date_object).days > 0:
-                                recorded = get_meterdata(item2, date.today(), date_object)
+                        if cont is not None:
+                            dt_object = parse_datetime(last_day(recorded.json()), format_str)
+                            if dt_object:
+                                date_object = dt_object.date()
+                                while(date.today() - date_object).days > 0:
+                                    recorded = get_meterdata(item2, date.today(), date_object)
+                                    
+                                    content += recorded.json()['Items'][0]['Items']
+                                    dt_object = parse_datetime(last_day(recorded.json()), format_str)
                                 
-                                content += recorded.json()['Items'][0]['Items']
-                                dt_object = parse_datetime(last_day(recorded.json()), format_str)
-                            
 
-                            #df = pd.read_json(filename(item, item2))
-                            dictwriter_object.writerows(content)
-                        file_.close()
+                                #df = pd.read_json(filename(item, item2))
+                                dictwriter_object.writerows(content)
+                            file_.close()
                         
     #UNCOMMENT IF YOU WANT TO RUN R SCRIPT AUTOATICALLY 
     #dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
