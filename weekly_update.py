@@ -48,7 +48,7 @@ def main():
                         recorded = get_meterdata(item2, date.today(), date_object)
                         cont = recorded.json()['Items'][0]['Items']
                         content += cont
-                        if cont is not None:
+                        if cont != []:
                             dt_object = parse_datetime(last_day(recorded.json()), format_str)
                             if dt_object:
                                 date_object = dt_object.date()
