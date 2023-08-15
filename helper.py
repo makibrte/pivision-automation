@@ -8,15 +8,25 @@ import decimal
 def parse_datetime_update(time_string):
     
     base, _, frac_sec = time_string.partition(".")
+    
+    
+    if not frac_sec:
+        return datetime.strptime(base, "%Y-%m-%dT%H:%M:%S")
 
-    # Round the fractional second to 6 digits
-    frac_sec = round(decimal.Decimal("0." + frac_sec.rstrip("Z")), 6)
+    
+    if not frac_sec.endswith("Z"):
+        print(f"Unexpected format: {time_string}")
+        return None
 
-    # Reassemble the timestamp
+    try:
+        
+        frac_sec = round(decimal.Decimal("0." + frac_sec.rstrip("Z")), 6)
+    except decimal.InvalidOperation:
+        print(f"Failed to convert frac_sec: {frac_sec.rstrip('Z')}")
+        return None
+    
     time_string_fixed = f"{base}.{str(frac_sec)[2:]}Z"
-
-    time_string = datetime.strptime(time_string_fixed, "%Y-%m-%dT%H:%M:%S.%fZ")
-    return time_string 
+    return datetime.strptime(time_string_fixed, "%Y-%m-%dT%H:%M:%S.%fZ") 
 
 
 def filename(item, item2, csv = False):
