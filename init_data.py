@@ -72,7 +72,7 @@ def main(tests = True, start=date(2020,1,1)):
                     
                     date_object = dt_object.date()
                 
-                with open(f'{filename(item, item2).replace("json", "")}.csv', 'w') as outfile:
+                with open(f'{filename(item, item2).replace("json", "")}', 'w') as outfile:
                     print(outfile)
                     df = pd.json_normalize(content)
                     df.to_csv(outfile, index=False) 
