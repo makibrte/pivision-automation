@@ -63,9 +63,9 @@ def main():
                             dictwriter_object.writerows(content)
                         file_.close()
                         
-    
-    dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
-    r_script_path = os.path.join(dir_path, 'import_wm_automated.R') # build the full path to the R script
+    #UNCOMMENT IF YOU WANT TO RUN R SCRIPT AUTOATICALLY 
+    #dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
+    #r_script_path = os.path.join(dir_path, 'import_wm_automated.R') # build the full path to the R script
 
     #command = "Rscript"
     #path2script = r_script_path

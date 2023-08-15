@@ -21,12 +21,10 @@ def parse_datetime_update(time_string):
 
 def filename(item, item2, csv = False):
     item['Name'] = item['Name'].replace('.', '')
-    if csv:
-      return  'temp_data_jsn/{}_{}.csv'.format("_".join(item['Name'].replace("/", " ").split(' ')).lower(), item2['Name'].replace('.', ''))
     
-    else:
-        return 'temp_data_jsn/{}_{}.csv'.format("_".join(item['Name'].replace("/", " ").split(' ')).lower(), item2['Name'].replace('.', ''))
-
+    return  'temp_data_csv/{}_{}.csv'.format("_".join(item['Name'].replace("/", " ").split(' ')).lower(), item2['Name'].replace('.', ''))
+    
+    
 def get_meterdata(data, end_date, start_date):
     days = (end_date - start_date).days
     return requests.get('https://osi.ipf.msu.edu/piwebapi/streamsets/{}/recorded?StartTime=*-{}d&EndTime=*-0d&MaxCount=40000'.format(data['WebId'], days))
@@ -45,42 +43,25 @@ def parse_datetime(datetime_str, format_str):
         
         format_with_fraction = "%Y-%m-%dT%H:%M:%S.%fZ"
         format_without_fraction = "%Y-%m-%dT%H:%M:%SZ"
-        format_with_fraction_and_offset = "%Y-%m-%d %H:%M:%S.%f%z"
-        if datetime_str:
-            try:
-                fractional_start = datetime_str.index('.') + 1
-                fractional_end = datetime_str.index('Z')
 
-                fractional_part = datetime_str[fractional_start:fractional_end]
-
-                # Truncate or pad the fractional part to fit exactly six digits
-                adjusted_fractional_part = (fractional_part[:6] + '000000')[:6]
-
-                # Replace the original fractional part with the adjusted one
-                adjusted_datetime_str = datetime_str[:fractional_start] + adjusted_fractional_part + datetime_str[fractional_end:]
-
-                dt_object = datetime.strptime(adjusted_datetime_str, format_with_fraction)
-
-            except ValueError:
-                # Handle case with timezone offset and nanoseconds
-                # Split the datetime string into date, time, and timezone offset
-                date_str, time_str = datetime_str.split(' ')
-                time_str, offset_str = time_str.split('+')
-
-                # Truncate nanoseconds to microseconds
-                time_str = time_str.split('.')[0] + '.' + time_str.split('.')[1][:6]
-
-                # Correctly format the timezone offset
-                offset_str = "+" + offset_str.replace(':', '')
-
-                # Reconstruct the datetime string
-                datetime_str = date_str + ' ' + time_str + offset_str
-
-                dt_object = datetime.strptime(datetime_str, format_with_fraction_and_offset)
-
-            return dt_object
+        try:
+            fractional_start = datetime_str.index('.') + 1
+            fractional_end = datetime_str.index('Z')
+        except ValueError:
+            # The timestamp doesn't have a fractional part
+            dt_object = datetime.strptime(datetime_str, format_without_fraction)
         else:
-            return None
+            fractional_part = datetime_str[fractional_start:fractional_end]
+
+            # Truncate or pad the fractional part to fit exactly six digits
+            adjusted_fractional_part = (fractional_part[:6] + '000000')[:6]
+
+            # Replace the original fractional part with the adjusted one
+            adjusted_datetime_str = datetime_str[:fractional_start] + adjusted_fractional_part + datetime_str[fractional_end:]
+
+            dt_object = datetime.strptime(adjusted_datetime_str, format_with_fraction)
+
+        return dt_object
 
 
 

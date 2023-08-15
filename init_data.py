@@ -72,13 +72,13 @@ def main(tests = True, start=date(2020,1,1)):
                     
                     date_object = dt_object.date()
                 
-                with open(filename(item, item2).replace('.', '').replace('json', ''), 'w') as outfile:
+                with open(filename(item, item2).replace('json', ''), 'w') as outfile:
                     print(outfile)
                     json.dump(content , outfile)
     
-    json_to_csv()
     
-    webID_dict.to_csv('webId.csv', index=False)
+    #TODO: Improve speed of weekly update
+    #webID_dict.to_csv('webId.csv', index=False)
 
     #RUN THE R-SCRIPT
     dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
@@ -90,7 +90,7 @@ def main(tests = True, start=date(2020,1,1)):
     subprocess.call([command, path2script, "TRUE"]) 
     
     #REMOVES THE JSON FILES CREATED
-    remove_json_temp()
+    
     
             
 
