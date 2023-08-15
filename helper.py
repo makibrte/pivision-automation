@@ -7,21 +7,18 @@ import decimal
 
 def parse_datetime_update(time_string):
     
-    try:
-        return datetime.strptime(time_string, "%Y-%m-%dT%H:%M:%S.%fZ")
-    except ValueError:
-        pass 
+    parts = time_string.split(".")
+    if len(parts) == 2:
+        seconds_fraction = parts[1][:6] + parts[1][-6:]
+        time_string = parts[0] + "." + seconds_fraction
 
     
     try:
-        dt = datetime.strptime(time_string, "%Y-%m-%d %H:%M:%S.%f%z")
-        return dt.astimezone(datetime.timezone.utc)  
-    except ValueError:
-        pass  
+        return datetime.strptime(time_string, "%Y-%m-%d %H:%M:%S.%f%z")
+    except ValueError as e:
+        print(f"Error parsing date: {e}")
+        return None
 
-    
-    print(f"Unexpected format: {time_string}")
-    return None 
 
 
 def filename(item, item2, csv = False):
