@@ -20,6 +20,7 @@ def parse_datetime_update(time_string):
 
 
 def filename(item, item2, csv = False):
+    item['Name'] = item['Name'].replace('.', '')
     if csv:
       return  'temp_data_jsn/{}_{}.csv'.format("_".join(item['Name'].replace("/", " ").split(' ')).lower(), item2['Name'].replace('.', ''))
     
