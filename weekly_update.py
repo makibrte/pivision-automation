@@ -36,10 +36,12 @@ def main():
                     content = []
                 
                 
-                
-                    with open(filename(item, item2, True).replace('json', ''), 'a') as file_:
-                        print(file_)
-                        existing_data = pd.read_csv(file_.name)
+                    file_name = filename(item, item2, True).replace('json', '')
+                    
+                    print(file_name)
+                    with open(file_name, 'a') as file_:
+                        
+                        existing_data = pd.read_csv(file_name)
                         dictwriter_object = DictWriter(file_, fieldnames=existing_data.keys())
                         dt_object = parse_datetime_update(existing_data.iloc[-1]['Timestamp'])
                         date_object = dt_object.date()
