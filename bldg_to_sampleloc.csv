@@ -31,63 +31,60 @@
 29,29,1808,MSU9,PU,1808W1,building_1808_1808W1.csv
 30,30,1809,MSU9,PU,1809W1,building_1809_1809W1.csv
 31,31,1810,MSU9,PU,1810W1,building_1810_1810W1.csv
-32,32,1701,MSU24,SC,NM,1701_NM.csv
-33,33,Anthony,MSU24,SC,0132W1,anthony_hall_0132W1.csv
+33,33,Anthony1,MSU24,SC,0132W1,anthony_hall_0132W1.csv
 34,34,Anthony3,MSU24,SC,0132W3,anthony_hall_0132W3.csv
 35,35,Anthony4,MSU24,SC,0132W5,anthony_hall_0132W5.csv
 36,36,Anthony5,MSU24,SC,0132W6,anthony_hall_0132W6.csv
-37,37,Beef Cattle Teaching and Research,MSU24,SC,??,beef_cattle_teaching_and_research_??.csv
 38,38,Bio Engineering,MSU24,SC,0233W1,bioengineering_0233W1.csv
 39,39,Biochemistry,MSU24,SC,0168W1,biochemistry_0168W1.csv
 40,40,Biomedical and Physical Sciences,MSU24,SC,0160W1,biomedical_physical_science_0160W1.csv
-41,41,Biosystems and Environmental Research and Education Center,MSU24,SC,???,biosystems_and_environmental_research_and_education_center_???.csv
-42,42,Chemistry,MSU24,SC,0163W1,chemistry_0163W1.csv
+42,42,Chemistry1,MSU24,SC,0163W1,chemistry_0163W1.csv
 43,43,Chemistry2,MSU24,SC,0163W2,chemistry_0163W2.csv
-44,44,Clinical Center,MSU24,SC,2000W1,clinical_center_2000W1.csv
+44,44,Clinical Center,MSU24,SC,2000W1,clinical_center_radiopharm_wing_2000W1.csv
 45,45,Clinical Center2,MSU24,SC,2000W2,clinical_center_2000W2.csv
-46,46,Communication Arts and Sciences,MSU24,SC,0084W1,communication_arts_and_sciences_0084W1.csv
-47,47,Conrad,MSU24,SC,0328W1,conrad_0328W1.csv
+46,46,Communication Arts and Sciences,MSU24,SC,0084W1,communication_arts_0084W1.csv
+47,47,Conrad,MSU24,SC,0328W1,conrad_hall_0328W1.csv
 48,48,Engineering,MSU24,SC,0081W1,engineering_0081W1.csv
 49,49,Engineering2,MSU24,SC,0081W2,engineering_0081W2.csv
-50,50,Engineering Research,MSU24,SC,0203W2,engineering_research_0203W2.csv
-51,51,Food Safety and Toxicology,MSU24,SC,0186W1,food_safety_and_toxicology_0186W1.csv
+50,50,Engineering Research,MSU24,SC,0203W2,engineering_research_complex_0203W2.csv
+51,51,Food Safety and Toxicology,MSU24,SC,0186W1,food_safety_toxicology_0186W1.csv
 52,52,Food Stores,MSU24,SC,0171W1,food_stores_0171W1.csv
-53,53,FRIB,MSU24,SC,0164W1,frib_0164W1.csv
-54,54,FRIB,MSU24,SC,0164W2,frib_0164W2.csv
-55,55,FRIB,MSU24,SC,0164W3,frib_0164W3.csv
-56,56,FRIB,MSU24,SC,0164W4,frib_0164W4.csv
-57,57,FRIB,MSU24,SC,0164W5,frib_0164W5.csv
-58,58,FRIB,MSU24,SC,0164W6,frib_0164W6.csv
-59,59,FRIB,MSU24,SC,0164W7,frib_0164W7.csv
-60,60,FRIB,MSU24,SC,0164W8,frib_0164W8.csv
-61,61,IM Sports East,MSU24,SC,0175W1,im_sports_east_0175W1.csv
-62,62,Interdisciplinary Science and Technology,MSU24,SC,0247W1,interdisciplinary_science_and_technology_0247W1.csv
-63,63,IPF Building,MSU24,SC,0167W1,ipf_building_0167W1.csv
+53,53,FRIB1,MSU24,SC,0164W1,frib_0164W1.csv
+54,54,FRIB2,MSU24,SC,0164W2,frib_0164W2.csv
+55,55,FRIB3,MSU24,SC,0164W3,frib_0164W3.csv
+56,56,FRIB4,MSU24,SC,0164W4,frib_0164W4.csv
+57,57,FRIB5,MSU24,SC,0164W5,frib_0164W5.csv
+58,58,FRIB6,MSU24,SC,0164W6,frib_0164W6.csv
+59,59,FRIB7,MSU24,SC,0164W7,frib_0164W7.csv
+60,60,FRIB8,MSU24,SC,0164W8,frib_0164W8.csv
+61,61,IM Sports East,MSU24,SC,0175W1,intramural_sports_east_0175W1.csv
+62,62,Interdisciplinary Science and Technology,MSU24,SC,0247W1,istb_0247W1.csv
+63,63,IPF Building,MSU24,SC,0167W1,infrastructure_planning_facilities_0167W1.csv
 64,64,Landscape Services,MSU24,SC,0158W1,landscape_services_0158W1.csv
-65,65,Life Sciences,MSU24,SC,0183W1,life_sciences_0183W1.csv
-66,66,Life Sciences2,MSU24,SC,0183W2,life_sciences_0183W2.csv
+65,65,Life Sciences,MSU24,SC,0183W1,life_science_0183W1.csv
+66,66,Life Sciences2,MSU24,SC,0183W2,life_science_0183W2.csv
 67,67,Linen Services,MSU24,SC,0068W1,linen_services_0068W1.csv
-68,68,MSU FCU,MSU24,SC,0626W1,msu_fcu_0626W1.csv
-69,69,MSU FCU2,MSU24,SC,0626W2,msu_fcu_0626W2.csv
+68,68,MSU FCU1,MSU24,SC,0626W1,msu_federal_credit_union_(mt_hope)_0626W1.csv
+69,69,MSU FCU2,MSU24,SC,0626W2,msu_federal_credit_union_(mt_hope)_0626W2.csv
 70,70,Natural Resources,MSU24,SC,0180W1,natural_resources_0180W1.csv
 71,71,Observatory,MSU24,SC,0196W1,observatory_0196W1.csv
 72,72,Packaging,MSU24,SC,0177W1,packaging_0177W1.csv
-73,73,Pavilion for Agriculture and Livestock Education,MSU24,SC,0212W1,pavilion_for_agriculture_and_livestock_education_0212W1.csv
-74,74,Plant and Soil Sciences,MSU24,SC,0086W1,plant_and_soil_sciences_0086W1.csv
-75,75,Plant and Soil Sciences2,MSU24,SC,0086W2,plant_and_soil_sciences_0086W2.csv
+73,73,Pavilion for Agriculture and Livestock Education,MSU24,SC,0212W1,pavilion_0212W1.csv
+74,74,Plant and Soil Sciences,MSU24,SC,0086W1,plant_and_soil_sciences_building_0086W1.csv
+75,75,Plant and Soil Sciences2,MSU24,SC,0086W2,plant_and_soil_sciences_(north_addition)_0086W2.csv
 76,76,Plant Biology Laboratories,MSU24,SC,0178W1,plant_biology_laboratories_0178W1.csv
 77,77,Plant Biology Laboratories2,MSU24,SC,0178W2,plant_biology_laboratories_0178W2.csv
 78,78,Plant Biology Laboratories3,MSU24,SC,0178W3,plant_biology_laboratories_0178W3.csv
-79,79,Radiology,MSU24,SC,0214W1,radiology_0214W1.csv
-80,80,RHS Services,MSU24,SC,0325W1,rhs_services_0325W1.csv
+79,79,Radiology,MSU24,SC,0214W1,radiology_building_0214W1.csv
+80,80,RHS Services,MSU24,SC,0325W1,rhs_information_services_0325W1.csv
 81,81,Scene Shop,MSU24,SC,0245W1,scene_shop_0245W1.csv
-82,82,Surplus Store and Recycling Center,MSU24,SC,0223W1,surplus_store_and_recycling_center_0223W1.csv
-83,83,Trout Food Science,MSU24,SC,0179W1,trout_food_science_0179W1.csv
+82,82,Surplus Store and Recycling Center,MSU24,SC,0223W1,surplus_recycling_0223W1.csv
+83,83,Trout Food Science,MSU24,SC,0179W1,food_science_0179W1.csv
 84,84,Veterinary Diagnostic Laboratory,MSU24,SC,0215W1,veterinary_diagnostic_laboratory_0215W1.csv
-85,85,Veterinary Medical Center,MSU24,SC,0107W1,veterinary_medical_center_0107W1.csv
-86,86,Veterinary Medical Center2,MSU24,SC,0107W2,veterinary_medical_center_0107W2.csv
-87,87,Veterinary Medical Center3,MSU24,SC,0107W3,veterinary_medical_center_0107W3.csv
-88,88,Veterinary Medical Center4,MSU24,SC,0107W4,veterinary_medical_center_0107W4.csv
-89,89,Veterinary Medical Center5,MSU24,SC,0107W5,veterinary_medical_center_0107W5.csv
+85,85,Veterinary Medical Center1,MSU24,SC,0170W1,veterinary_medical_center_0170W1.csv
+86,86,Veterinary Medical Center2,MSU24,SC,0170W2,veterinary_medical_center_0170W2.csv
+87,87,Veterinary Medical Center3,MSU24,SC,0170W3,veterinary_medical_center_0170W3.csv
+88,88,Veterinary Medical Center4,MSU24,SC,0170W4,veterinary_medical_center_0170W4.csv
+89,89,Veterinary Medical Center5,MSU24,SC,0170W5,veterinary_medical_center_0170W5.csv
 90,90,Wharton Center,MSU24,SC,0085W1,wharton_center_0085W1.csv
-91,91,William Demmer Engineering Center,MSU24,SC,0653W1,william_demmer_engineering_center_0653W1.csv
+91,91,William Demmer Engineering Center,MSU24,SC,0653W1,demmer_engineering_center_0653W1.csv
