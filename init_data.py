@@ -9,6 +9,7 @@ from datetime import date
 from datetime import datetime
 import argparse
 from tests import test_csv
+from helper import remove_duplicates_csv
 from helper import filename, get_meterdata, parse_datetime, get_elements, get_element, last_day, json_to_csv, first_day, remove_json_temp
 parser = argparse.ArgumentParser(description='PiVision MSU Water Meter Data Automation-Initial Setup')
 
@@ -25,12 +26,9 @@ def main(tests = True, start=date(2020,1,1)):
     req = get_elements()
     buildings = pd.read_csv('bldg_to_sampleloc.csv')
     meters = list(buildings['meter_id'])
-    if not os.path.isdir('temp_data_json'):
-        os.makedirs('temp_data_json')
-        print('Created temp_data_json dir')
-    else:
-        print('temp_data_json exists')
+
     if not os.path.isdir('temp_data_csv'):
+        print('Creating temp_data_csv')
         os.makedirs('temp_data_csv')
     #ITERATES OVER ALL THE BUILDINGS AND ONLY MAKES DATA REQUEST FOR THOSE INSIDE BLDG_TO_SAMPLELOC
     
@@ -45,6 +43,7 @@ def main(tests = True, start=date(2020,1,1)):
         req2 = get_element(item['WebId'])
         for item2 in req2.json()['Items']:
             if item2['Name'] in meters:
+
                 webID_dict_temp = pd.DataFrame({'Name' : [item2['Name']],
                                    'WebID' : [item2['WebId']]})
                 webID_dict = pd.concat([webID_dict, webID_dict_temp], ignore_index=True)
@@ -80,7 +79,7 @@ def main(tests = True, start=date(2020,1,1)):
     
     #TODO: Improve speed of weekly update
     #webID_dict.to_csv('webId.csv', index=False)
-
+    remove_duplicates_csv()
     #RUN THE R-SCRIPT
     #dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
     #r_script_path = os.path.join(dir_path, 'import_wm.R') # build the full path to the R script

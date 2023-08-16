@@ -4,6 +4,8 @@ from datetime import date
 import os, shutil 
 import pandas as pd
 import decimal
+from tqdm import tqdm
+
 
 def parse_datetime_update(time_string):
     
@@ -103,3 +105,11 @@ def remove_json_temp(folders = ['temp_data_jsn']):
             except Exception as e:
                 print('Failed to delete %s. Reason: %s' % (file_path, e))
 
+def remove_duplicates_csv():
+    dir_ = os.listdir('temp_data_csv/')
+    print('REMOVING DUPLICATES...')
+    for file_ in dir_:
+        file_path = f'temp_data_csv/{file_}'
+        df = pd.read_csv(file_path)
+        df = df.drop_duplicates()
+        df.to_csv(file_path)

@@ -12,7 +12,7 @@ import argparse
 import subprocess
 from tests import test_csv
 from helper import filename, get_meterdata, parse_datetime, get_elements, get_element, last_day, remove_json_temp
-from helper import parse_datetime_update
+from helper import parse_datetime_update, remove_duplicates_csv
 parser = argparse.ArgumentParser(description='PiVision MSU Water Meter Data Automation - Weekly Update')
 
 parser.add_argument('--tests', type=bool, default=True, help='Should the script print tests, recommended True')
@@ -42,8 +42,9 @@ def main():
                     with open(file_name, 'a') as file_:
                         
                         existing_data = pd.read_csv(file_name)
+
                         dictwriter_object = DictWriter(file_, fieldnames=existing_data.keys())
-                        dt_object = parse_datetime_update(existing_data.iloc[-1]['Timestamp'])
+                        dt_object = parse_datetime(existing_data.iloc[-1]['Timestamp'], format_str)
                         date_object = dt_object.date()
                         recorded = get_meterdata(item2, date.today(), date_object)
                         cont = recorded.json()['Items'][0]['Items']
@@ -63,6 +64,10 @@ def main():
                                 dictwriter_object.writerows(content)
                             file_.close()
                         
+    #DROPS DUPLICATES FROM ALL CSV FILES
+    remove_duplicates_csv()
+    
+    
     #UNCOMMENT IF YOU WANT TO RUN R SCRIPT AUTOATICALLY 
     #dir_path = os.path.dirname(os.path.realpath(__file__)) # get the directory of the current Python script
     #r_script_path = os.path.join(dir_path, 'import_wm_automated.R') # build the full path to the R script
