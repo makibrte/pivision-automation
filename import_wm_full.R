@@ -9,7 +9,7 @@ library(readxl)
 
 
 # Load sample location details
-sample_loc_lookup <- read.csv(".bldg_to_sampleloc.csv") %>% 
+sample_loc_lookup <- read.csv("bldg_to_sampleloc.csv") %>% 
   
   # removes all data without an associated meter
   filter(meter_id != "??",  meter_id != "???",  meter_id != "NM") %>% 
