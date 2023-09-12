@@ -1,5 +1,6 @@
 from tqdm import tqdm
 import os
+import logging
 import numpy as np
 import requests
 import json
@@ -13,7 +14,8 @@ from helper import remove_duplicates_csv
 from helper import filename, get_meterdata, parse_datetime, get_elements, get_element, last_day, json_to_csv, first_day, remove_json_temp
 parser = argparse.ArgumentParser(description='PiVision MSU Water Meter Data Automation-Initial Setup')
 
-
+logging.basicConfig(filename='app.log', level=logging.INFO)
+logging.info('Program started')
 parser.add_argument('--tests', type=bool, default=True, help='Should the script print tests, recommended True')
 parser.add_argument('--start', type=date, default=date(2020,1,1), help='Determines the starting date for the script')
 
